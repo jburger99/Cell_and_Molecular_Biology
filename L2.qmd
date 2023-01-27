@@ -1,0 +1,27 @@
+---
+title: "Lesson 2: Protein Folding and Chaprones"
+---
+
+The majority of the dry weight of a cell is it's proteins. Proteins alos act as the facilitators of chemical reactions.
+
+There are four chemical categories that amino acids can be grouped into:
+
+-   polar-positive charge (basic)
+
+-   polar-negative charge (acidic)
+
+-   polar-uncharged
+
+-   nonpolar
+
+![](20230116_202129.jpg) The unique side chain (r group) of each amino acid determines their charge. The side chain also determines if a amino acid is polar or nonpolar.
+
+### Protein folding
+
+-   primary structure: sequence of amino acids. Formed from peptide bonds (strong covalent bonds). Bonding occurs at the junction of an amino and carboxyl groups (backbone of the protein).
+
+-   secondary structure: $\alpha$ helices and $\beta$ sheets. Formed from hydrogen bonds (weak noncovalent bonds). Bonding occurs between the backbone C=O to N-H.
+
+-   tertiary structure: 3D structure. Formed from disulfide bonds (strong covalent bonds), hydrogen bonds between polar amino acids, ionic bonds, van der Waal interactions (weak noncovalent bonds). Bonds form at side chains within the ploypeptide chain.
+
+-   quarternary: multiple subunits forming a functional whole. Formed from same bonds as tertiary. Bonds form at side chains between the ploypeptide chains (subunits).

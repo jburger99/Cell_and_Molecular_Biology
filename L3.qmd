@@ -1,0 +1,47 @@
+---
+title: "Lesson 3: Protein Degradation System"
+---
+
+### Purpose of the Proteasome
+
+1.  Destroy misfolded, partially folded, or damaged proteins
+
+2.  Destroy "unwanted" proteins (regulated destruction) e.g. cyclins
+
+3.  Created peptides for presentation to the immune system
+
+### New Proteins
+
+New proteins can:
+
+-   fold properly without help
+
+-   fold properly with help from chaperons
+
+-   improperly fold and be destroyed by the proteasome
+
+Failure of these three outcomes can lead to protein aggregates.
+
+### Proteasome Structure
+
+#### 20s Core
+
+A hollow tube with protease active sites. Proteins must be fed through the core to be degraded. The core is made up of 4 rings each made up of 7 subunits.
+
+#### 19s Caps
+
+Each cap is an ATP-unfoldase with Ubiquitin binding sites and deubiquitinases (Ubiquitin hydrolase). Each cap has six subunits.
+
+The total proteasome is a 26s proteasome.
+
+### Ubiquitination
+
+![](Screenshot 2023-01-19 141121.jpg)
+
+### Degrons
+
+Degrons are degradation signals on or in protein substrates that bind to the E3 ligase.
+
+N-end Rule:
+
+-   N-termius or cleavage of the N-terminus contains certain amino acids that act as a degrons.

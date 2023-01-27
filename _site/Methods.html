@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>BIO376 - Methods in Cell Biology</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Methods in Cell Biology</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">BIO376</a> 
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Unit 1</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L1.html" class="sidebar-item-text sidebar-link">Lesson 1: Enzymes and Free Energy</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Methods.html" class="sidebar-item-text sidebar-link active">Methods in Cell Biology</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L2.html" class="sidebar-item-text sidebar-link">Lesson 2: Protein Folding and Chaprones</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#isolating-cells-and-growing-them-in-culture" id="toc-isolating-cells-and-growing-them-in-culture" class="nav-link active" data-scroll-target="#isolating-cells-and-growing-them-in-culture">Isolating Cells and Growing Them in Culture</a></li>
+  <li><a href="#cells-can-be-grown-in-culture" id="toc-cells-can-be-grown-in-culture" class="nav-link" data-scroll-target="#cells-can-be-grown-in-culture">Cells can be grown in culture</a></li>
+  <li><a href="#purifying-proteins-cells-can-be-separated-cell-extracts-provide" id="toc-purifying-proteins-cells-can-be-separated-cell-extracts-provide" class="nav-link" data-scroll-target="#purifying-proteins-cells-can-be-separated-cell-extracts-provide">Purifying Proteins; Cells can be separated…; Cell Extracts Provide…</a></li>
+  <li><a href="#purified-cell-free-systems-are-required" id="toc-purified-cell-free-systems-are-required" class="nav-link" data-scroll-target="#purified-cell-free-systems-are-required">Purified Cell-free systems are required…</a></li>
+  <li><a href="#analyzing-proteins-proteins-can-be-separated-by-sds" id="toc-analyzing-proteins-proteins-can-be-separated-by-sds" class="nav-link" data-scroll-target="#analyzing-proteins-proteins-can-be-separated-by-sds">Analyzing Proteins; Proteins Can Be Separated by SDS…</a></li>
+  <li><a href="#specific-proteins-can-be-detected-by-blotting" id="toc-specific-proteins-can-be-detected-by-blotting" class="nav-link" data-scroll-target="#specific-proteins-can-be-detected-by-blotting">Specific Proteins Can Be Detected by Blotting…</a></li>
+  <li><a href="#sets-of-interacting-proteins" id="toc-sets-of-interacting-proteins" class="nav-link" data-scroll-target="#sets-of-interacting-proteins">Sets of Interacting Proteins…</a></li>
+  <li><a href="#recombinant-dna" id="toc-recombinant-dna" class="nav-link" data-scroll-target="#recombinant-dna">Recombinant DNA</a></li>
+  <li><a href="#mutations-can-cause-loss-or-gain" id="toc-mutations-can-cause-loss-or-gain" class="nav-link" data-scroll-target="#mutations-can-cause-loss-or-gain">Mutations Can Cause Loss or Gain…</a></li>
+  <li><a href="#genes-can-be-ordered-in-pathways" id="toc-genes-can-be-ordered-in-pathways" class="nav-link" data-scroll-target="#genes-can-be-ordered-in-pathways">Genes can be ordered in pathways…</a></li>
+  <li><a href="#genes-can-be-engineered" id="toc-genes-can-be-engineered" class="nav-link" data-scroll-target="#genes-can-be-engineered">Genes Can Be Engineered…</a></li>
+  <li><a href="#transfection" id="toc-transfection" class="nav-link" data-scroll-target="#transfection">Transfection</a></li>
+  <li><a href="#antibodies-can-be-used-to-detect" id="toc-antibodies-can-be-used-to-detect" class="nav-link" data-scroll-target="#antibodies-can-be-used-to-detect">Antibodies can be used to detect…</a></li>
+  <li><a href="#radioisotopes-are-used" id="toc-radioisotopes-are-used" class="nav-link" data-scroll-target="#radioisotopes-are-used">Radioisotopes are used…</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Methods in Cell Biology</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="isolating-cells-and-growing-them-in-culture" class="level3">
+<h3 class="anchored" data-anchor-id="isolating-cells-and-growing-them-in-culture">Isolating Cells and Growing Them in Culture</h3>
+<ul>
+<li><p>While cells can be observed under a microscope, cell functions require biochemical analysis to be observed.</p></li>
+<li><p>Heterogeneous cell populations contain a mixture of cell types coming from tissues.</p></li>
+<li><p>Homogeneous cell populations contain a singular cell type separated from other cell types by dissociation.</p></li>
+</ul>
+</section>
+<section id="cells-can-be-grown-in-culture" class="level3">
+<h3 class="anchored" data-anchor-id="cells-can-be-grown-in-culture">Cells can be grown in culture</h3>
+<p>It is advantageous to grow cells in a culture for multiple reasons:</p>
+<ul>
+<li><p>cultures are more homogeneous than coming from a intact tissue or organ</p></li>
+<li><p>the culture can be more closely observed under a microscope</p></li>
+<li><p>biochemical analysis can be performed by removing specific molecules</p></li>
+</ul>
+<p><span class="math inline">\(In\)</span> <span class="math inline">\(vitro\)</span>:</p>
+<ul>
+<li><p>cell biology: cultured in a dish</p></li>
+<li><p>biochemistry: reaction carried out in a test tube, a cell free environment</p></li>
+</ul>
+<p><span class="math inline">\(In\)</span> <span class="math inline">\(vivo\)</span>:</p>
+<ul>
+<li><p>cell biology: using an intact organism</p></li>
+<li><p>biochemistry: reaction carried out in live tissue (even if tissue is cultured in a dish)</p></li>
+</ul>
+<p>Most cell cultures require a culture dish coated in a material that the cells can adhere to.</p>
+<p>Primary cultures are cultures prepared directly from a the tissues of an organism. The opposite of a primary culture would be cell lines, often from cancer cells, that are grown in a dish that are immortal.</p>
+</section>
+<section id="purifying-proteins-cells-can-be-separated-cell-extracts-provide" class="level3">
+<h3 class="anchored" data-anchor-id="purifying-proteins-cells-can-be-separated-cell-extracts-provide">Purifying Proteins; Cells can be separated…; Cell Extracts Provide…</h3>
+<p>Cells can be broken up in a variety of ways:</p>
+<ul>
+<li><p>osmotic shock</p></li>
+<li><p>ultrasonic vibration</p></li>
+<li><p>forced through small orifices</p></li>
+<li><p>ground up by a blender</p></li>
+</ul>
+<p>Homogenate is a slurry of membrane bound organelles from cells being broken up.</p>
+<p>Cell fractionation is performed using a perparative centrifuge that spins the cell components at a high speed. Separating components by size and density. The different bands of cell components formed in the salt solution are known as velocity sedimentation.</p>
+<p>Equilibrium sedimentation occurs when a solution of sucrose and cesium chloride. The cell components are seperated by their buoyant density.</p>
+</section>
+<section id="purified-cell-free-systems-are-required" class="level3">
+<h3 class="anchored" data-anchor-id="purified-cell-free-systems-are-required">Purified Cell-free systems are required…</h3>
+<p>Purified cell-free systems are created by fractionating cell homogenates with the aim of purifying the macromolecules that are needed to catalyze the biological process of interest. This method aligns with the conecept of reductionism by breaking a cell in to it constiuant components to understand the function of each of them.</p>
+</section>
+<section id="analyzing-proteins-proteins-can-be-separated-by-sds" class="level3">
+<h3 class="anchored" data-anchor-id="analyzing-proteins-proteins-can-be-separated-by-sds">Analyzing Proteins; Proteins Can Be Separated by SDS…</h3>
+<p>SDS (sodium dodecyl sulfate): a powerful negatively charged detergent that binds to the hydrophobic regions of proteins unfolding them into extended polypeptide chains.</p>
+<p>Polyachrylamide: a highly cross-linked polymer that serves as the matrix for proteins to pass through.</p>
+<p><span class="math inline">\(\beta\)</span>-mercaptoethanol: a reducing agent that breaks S-S linkages in multisubunited proteins so that the individual polypeptides can be analyzed.</p>
+<p>An electric field is applied to an SDS-PAGE gel so that the charge protein molecules will migrate from the negatively charged electrode towards the positive electrode. Similarly sized proteins travel at a similar rate. Using a dye such as coomasie blue, bands of similarly sized proteins can be observed.</p>
+</section>
+<section id="specific-proteins-can-be-detected-by-blotting" class="level3">
+<h3 class="anchored" data-anchor-id="specific-proteins-can-be-detected-by-blotting">Specific Proteins Can Be Detected by Blotting…</h3>
+<p>Western blots, also know as immunoblots, detect proteins by using antibodies specific to the protein of interest.</p>
+</section>
+<section id="sets-of-interacting-proteins" class="level3">
+<h3 class="anchored" data-anchor-id="sets-of-interacting-proteins">Sets of Interacting Proteins…</h3>
+<p>Co-immunoprecipitation is a process that uses an antibody to bind to one component protein of a complex. The antibody is coupled with a solid matrix that cause the antibodied bound protein and its related complex protein to precipitate to the bottom of the testube.</p>
+</section>
+<section id="recombinant-dna" class="level3">
+<h3 class="anchored" data-anchor-id="recombinant-dna">Recombinant DNA</h3>
+<p>DNA that has been formed artificially by combining constituents from different organisms.</p>
+<p>Plasmid: a small circular DNA structure</p>
+</section>
+<section id="mutations-can-cause-loss-or-gain" class="level3">
+<h3 class="anchored" data-anchor-id="mutations-can-cause-loss-or-gain">Mutations Can Cause Loss or Gain…</h3>
+<p>Loss-of-function mutation: a mutation that causes a gene product to not work or be produced less. Most often are recessive genes</p>
+<p>Gain-of-function mutation: a mutation that results in over production, irregularly timed gene products, or new function of a gene product. Frequently are dominant genes.</p>
+</section>
+<section id="genes-can-be-ordered-in-pathways" class="level3">
+<h3 class="anchored" data-anchor-id="genes-can-be-ordered-in-pathways">Genes can be ordered in pathways…</h3>
+<p>When a gene is upstream from another it is transcribed before the other gene.</p>
+<p>Null mutation: a mutation that stops function</p>
+<p>Synthetic phenotypes are caused by double mutations that cause more severe or more phenotypes than a single mutation.</p>
+</section>
+<section id="genes-can-be-engineered" class="level3">
+<h3 class="anchored" data-anchor-id="genes-can-be-engineered">Genes Can Be Engineered…</h3>
+<p>Knockout - the deletion or deactivation of both copies of a gene.</p>
+<p>Inducible promoter - a promoter required for gene activation that can be turn on and off at anytime.</p>
+<p>dominant-negative -</p>
+</section>
+<section id="transfection" class="level3">
+<h3 class="anchored" data-anchor-id="transfection">Transfection</h3>
+<p>Transfection is the insertion of nucleic acids into a eukaryotic cell.</p>
+</section>
+<section id="antibodies-can-be-used-to-detect" class="level3">
+<h3 class="anchored" data-anchor-id="antibodies-can-be-used-to-detect">Antibodies can be used to detect…</h3>
+</section>
+<section id="radioisotopes-are-used" class="level3">
+<h3 class="anchored" data-anchor-id="radioisotopes-are-used">Radioisotopes are used…</h3>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

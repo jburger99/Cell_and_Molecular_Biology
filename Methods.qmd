@@ -1,0 +1,113 @@
+---
+title: "Methods in Cell Biology"
+---
+
+### Isolating Cells and Growing Them in Culture
+
+-   While cells can be observed under a microscope, cell functions require biochemical analysis to be observed.
+
+-   Heterogeneous cell populations contain a mixture of cell types coming from tissues.
+
+-   Homogeneous cell populations contain a singular cell type separated from other cell types by dissociation.
+
+### Cells can be grown in culture
+
+It is advantageous to grow cells in a culture for multiple reasons:
+
+-   cultures are more homogeneous than coming from a intact tissue or organ
+
+-   the culture can be more closely observed under a microscope
+
+-   biochemical analysis can be performed by removing specific molecules
+
+$In$ $vitro$:
+
+-   cell biology: cultured in a dish
+
+-   biochemistry: reaction carried out in a test tube, a cell free environment
+
+$In$ $vivo$:
+
+-   cell biology: using an intact organism
+
+-   biochemistry: reaction carried out in live tissue (even if tissue is cultured in a dish)
+
+Most cell cultures require a culture dish coated in a material that the cells can adhere to.
+
+Primary cultures are cultures prepared directly from a the tissues of an organism. The opposite of a primary culture would be cell lines, often from cancer cells, that are grown in a dish that are immortal.
+
+### Purifying Proteins; Cells can be separated...; Cell Extracts Provide...
+
+Cells can be broken up in a variety of ways:
+
+-   osmotic shock
+
+-   ultrasonic vibration
+
+-   forced through small orifices
+
+-   ground up by a blender
+
+Homogenate is a slurry of membrane bound organelles from cells being broken up.
+
+Cell fractionation is performed using a perparative centrifuge that spins the cell components at a high speed. Separating components by size and density. The different bands of cell components formed in the salt solution are known as velocity sedimentation.
+
+Equilibrium sedimentation occurs when a solution of sucrose and cesium chloride. The cell components are seperated by their buoyant density.
+
+### Purified Cell-free systems are required...
+
+Purified cell-free systems are created by fractionating cell homogenates with the aim of purifying the macromolecules that are needed to catalyze the biological process of interest. This method aligns with the conecept of reductionism by breaking a cell in to it constiuant components to understand the function of each of them.
+
+### Analyzing Proteins; Proteins Can Be Separated by SDS...
+
+SDS (sodium dodecyl sulfate): a powerful negatively charged detergent that binds to the hydrophobic regions of proteins unfolding them into extended polypeptide chains.
+
+Polyachrylamide: a highly cross-linked polymer that serves as the matrix for proteins to pass through.
+
+$\beta$-mercaptoethanol: a reducing agent that breaks S-S linkages in multisubunited proteins so that the individual polypeptides can be analyzed.
+
+An electric field is applied to an SDS-PAGE gel so that the charge protein molecules will migrate from the negatively charged electrode towards the positive electrode. Similarly sized proteins travel at a similar rate. Using a dye such as coomasie blue, bands of similarly sized proteins can be observed.
+
+### Specific Proteins Can Be Detected by Blotting...
+
+Western blots, also know as immunoblots, detect proteins by using antibodies specific to the protein of interest.
+
+### Sets of Interacting Proteins...
+
+Co-immunoprecipitation is a process that uses an antibody to bind to one component protein of a complex. The antibody is coupled with a solid matrix that cause the antibodied bound protein and its related complex protein to precipitate to the bottom of the testube.
+
+### Recombinant DNA
+
+DNA that has been formed artificially by combining constituents from different organisms.
+
+Plasmid: a small circular DNA structure
+
+### Mutations Can Cause Loss or Gain...
+
+Loss-of-function mutation: a mutation that causes a gene product to not work or be produced less. Most often are recessive genes
+
+Gain-of-function mutation: a mutation that results in over production, irregularly timed gene products, or new function of a gene product. Frequently are dominant genes.
+
+### Genes can be ordered in pathways...
+
+When a gene is upstream from another it is transcribed before the other gene.
+
+Null mutation: a mutation that stops function
+
+Synthetic phenotypes are caused by double mutations that cause more severe or more phenotypes than a single mutation.
+
+### Genes Can Be Engineered...
+
+Knockout - the deletion or deactivation of both copies of a gene.
+
+Inducible promoter - a promoter required for gene activation that can be turn on and off at anytime.
+
+dominant-negative -
+
+### Transfection
+
+Transfection is the insertion of nucleic acids into a eukaryotic cell.
+
+### Antibodies can be used to detect...
+
+### Radioisotopes are used...

@@ -1,0 +1,105 @@
+---
+title: "Lesson 1: Enzymes and Free Energy"
+---
+
+### Noncovalent Interactions
+
+#### Electrostatic attractions
+
+Result from the attractive forces between oppositely charged atoms. Form between permanent dipoles.
+
+#### Hydrogen bonds
+
+The partial sharing of an electropostive hydrogen atom between two negatively charged atoms. Strongest when a straight line can be drawn between the three atoms.
+
+#### van der Waals attractions
+
+A weak attraction created by flickering dipoles. Flickering dipoles are the result of the fluctuations in the electron cloud around an atom.
+
+#### Hydrophobic force
+
+Caused by the hydrogen-bonded water network pushing non-polar molecules out.
+
+### Noncovalent bonds specify both the precise shape of a macromolecule and its binding to other molecules
+
+Noncovalent interactions cooperate to fold macromolecules into unique shapes. Additionally they can add up to create attractions between two molecules.
+
+### Enzymes
+
+#### Enzymes Lower the barriers that block chemical reactions
+
+Energetically favorable reactions are reactions that results in a "downhill" direction. Ergo, to be energetically favorable a reaction must result in a loss of free energy.
+
+##### Free energy
+
+Energy that can be harnessed to do work or drive a chemical reaction
+
+$\Delta$H = $\Delta$G = T$\Delta$S
+
+##### Basic enzyme structure
+
+Enzymes are proteins that bind tightly to one or more molecules called substrates, and hold them in a way that reduces activation energy for a chemical reaction acting as catalysts. Catalysts are any substance that an lower the activation energy of a reaction and increase the speed of the reaction.
+
+#### How Enzymes find their substrates
+
+Enzymes are slow moving compared to their substrates and bind to them when collisions occur. All molecules are moved through three types of motion:
+
+-   Translation motion (Diffusion): the movement of from one place to another
+
+-   Vibration
+
+-   Rotation
+
+Motion in the system is cause by heat energy. Collisions between molecules cause them to change direction, this change in direction is called $random$ $walk.$ Net distance of a molecule is proportional to the square root of the time involved.
+
+$$
+\sqrt{time}
+$$ Enzymes bind to their substrates through complementary charges at the bind regions.
+
+### Free Energy Changes
+
+#### The concentration of reactants influences the free-energy change and a
+
+reaction's direction
+
+![](Screenshot%202023-01-05%20134856.jpg)
+
+$\Delta$G = $\Delta$G$^\circ$ + RT ln K
+
+$\Delta$G$^\circ$:
+
+-   standard $\Delta$G
+
+-   1 mol reactants
+
+-   1 mol products
+
+-   25$^\circ$
+
+R:
+
+-   gas constant
+
+T:
+
+-   Temperature Kelvin
+
+K:
+
+-   Equilibrium ratio
+
+-   products / reactants
+
+Simplified equation:
+
+$\Delta$G = $\Delta$G$^\circ$ + 1.42 log(\[P\]/\[R\])
+
+-   assumes temp of 37$^\circ$f
+
+$\Delta$G = G$_\text{products}$ - G$_\text{reactants}$
+
+$\Delta$G \< 0: Spontaneous (exergonic) $\Delta$G \> 0: Non-spontaneous (endorgonic) $\Delta$G = 0: Equilibrium
+
+Enzymes lower the E$_\text{a}$ (activation energy)
+
+#### For sequential reactions, $\Delta$G values are additive
