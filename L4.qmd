@@ -50,11 +50,11 @@ Active site: binding site for substrates
 
 ![](allosteric_activation.jpeg)
 
-![](Screenshot 2023-01-26 132551.jpg)
+![](Screenshot%202023-01-26%20132551.jpg)
 
 ![](allosteric_inactivation.jpeg)
 
-![](Screenshot 2023-01-26 132647.jpg)
+![](Screenshot%202023-01-26%20132647.jpg)
 
 ### Many changes in proteins are driven...
 
@@ -68,7 +68,7 @@ Phosphorylation is a covalent modification of a enzyme where a phosphate group i
 
 One third of all proteins in mammalian cells are thought to be phosphorylated at a given time. A protein can be phosphorylated in multiple places but a polyphosphate chain cannot be formed.
 
-![](Screenshot 2023-01-26 132800.jpg)
+![](Screenshot%202023-01-26%20132800.jpg)
 
 ### A Eukaryotic Cell Contains a large...
 
@@ -76,7 +76,7 @@ Protein phosphorylation involves the enzyme-catalyzed transfer of the terminal p
 
 ### Proteins that bind and hydrolyze GTP...
 
-![](Screenshot 2023-01-26 132347.jpg)
+![](Screenshot%202023-01-26%20132347.jpg)
 
 ### Regulatory Proteins Control...
 
