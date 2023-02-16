@@ -18,6 +18,10 @@ website:
         contents: 
           - L4.qmd
           - L5.qmd
+          - L6.qmd
+      - section: "Unit 3"
+        contents:
+          - L10.qmd
           
 
 format:

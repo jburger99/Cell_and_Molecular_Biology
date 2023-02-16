@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>BIO376 - Lesson 10: Cell Signaling</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Lesson 10: Cell Signaling</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">BIO376</a> 
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Unit 1</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L1.html" class="sidebar-item-text sidebar-link">Lesson 1: Enzymes and Free Energy</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Methods.html" class="sidebar-item-text sidebar-link">Methods in Cell Biology</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L2.html" class="sidebar-item-text sidebar-link">Lesson 2: Protein Folding and Chaprones</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L3.html" class="sidebar-item-text sidebar-link">Lesson 3: Protein Degradation System</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Unit 2</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L4.html" class="sidebar-item-text sidebar-link">Lesson 4: Protein Regulation</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L5.html" class="sidebar-item-text sidebar-link">Lesson 5: The Lipid Bilayer and Membrane Synthesis</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L6.html" class="sidebar-item-text sidebar-link">Lesson 6: Membrane Proteins</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Unit 3</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L10.html" class="sidebar-item-text sidebar-link active">Lesson 10: Cell Signaling</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#mechanisms-of-cell-communication" id="toc-mechanisms-of-cell-communication" class="nav-link active" data-scroll-target="#mechanisms-of-cell-communication">Mechanisms of Cell Communication</a></li>
+  <li><a href="#general-principles" id="toc-general-principles" class="nav-link" data-scroll-target="#general-principles">General Principles…</a></li>
+  <li><a href="#extracellular-signal-molecules" id="toc-extracellular-signal-molecules" class="nav-link" data-scroll-target="#extracellular-signal-molecules">Extracellular Signal Molecules…</a></li>
+  <li><a href="#each-cell-is-programmed" id="toc-each-cell-is-programmed" class="nav-link" data-scroll-target="#each-cell-is-programmed">Each Cell is Programmed…</a></li>
+  <li><a href="#figure-15-9" id="toc-figure-15-9" class="nav-link" data-scroll-target="#figure-15-9">Figure 15-9</a></li>
+  <li><a href="#a-cell-can-alter" id="toc-a-cell-can-alter" class="nav-link" data-scroll-target="#a-cell-can-alter">A Cell Can Alter…</a></li>
+  <li><a href="#figure-15-12" id="toc-figure-15-12" class="nav-link" data-scroll-target="#figure-15-12">Figure 15-12</a></li>
+  <li><a href="#nuclear-receptors-are-ligand-modulated" id="toc-nuclear-receptors-are-ligand-modulated" class="nav-link" data-scroll-target="#nuclear-receptors-are-ligand-modulated">Nuclear Receptors are Ligand-Modulated…</a></li>
+  <li><a href="#the-three-largest-classes" id="toc-the-three-largest-classes" class="nav-link" data-scroll-target="#the-three-largest-classes">The Three Largest Classes…</a></li>
+  <li><a href="#most-activated-cell-surface-receptors" id="toc-most-activated-cell-surface-receptors" class="nav-link" data-scroll-target="#most-activated-cell-surface-receptors">Most Activated Cell-Surface Receptors…</a></li>
+  <li><a href="#many-intracellular-signaling-proteins" id="toc-many-intracellular-signaling-proteins" class="nav-link" data-scroll-target="#many-intracellular-signaling-proteins">Many Intracellular Signaling Proteins…</a></li>
+  <li><a href="#modular-interaction-domains" id="toc-modular-interaction-domains" class="nav-link" data-scroll-target="#modular-interaction-domains">Modular Interaction Domains</a></li>
+  <li><a href="#intracellular-signaling-networks" id="toc-intracellular-signaling-networks" class="nav-link" data-scroll-target="#intracellular-signaling-networks">Intracellular Signaling Networks</a></li>
+  <li><a href="#figure-15-29" id="toc-figure-15-29" class="nav-link" data-scroll-target="#figure-15-29">Figure 15-29</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Lesson 10: Cell Signaling</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="mechanisms-of-cell-communication" class="level2">
+<h2 class="anchored" data-anchor-id="mechanisms-of-cell-communication">Mechanisms of Cell Communication</h2>
+<p>Intercellular signals are signals sent from one cell to another. Intracellular signals are those that occur within a single cell.</p>
+<p><img src="20230215_175410.jpg" class="img-fluid"> From figure 15-1 we can see that intracellular signalling starts with a receptor protein that recieves a signal from a extracellular signal molecule and end with an alteration to the cell catalyzed by a effector protein with intracellular signaling proteins acting as a mediating step.</p>
+<p>Receptor proteins are usually bond to the cell membrane of the target cell.</p>
+</section>
+<section id="general-principles" class="level2">
+<h2 class="anchored" data-anchor-id="general-principles">General Principles…</h2>
+<p>Quorum sensing is when cells respond to chemical signals that are secreted by their neighbors and increase in concentration with an increase in population density.</p>
+<p>There are over 1500 human gene that encode for receptor proteins.</p>
+</section>
+<section id="extracellular-signal-molecules" class="level2">
+<h2 class="anchored" data-anchor-id="extracellular-signal-molecules">Extracellular Signal Molecules…</h2>
+<p>Animal cell signal molecules can be: proteins, small peptides, amino acids, nucleotides, steroids, retinoids, fatty acids derivatives, and dissolved gases.</p>
+<p>The most common ways for signal molecules to be transmitted are exocytosis, diffusion across the cell membrane, and transmembrane proteins on the signaling cell’s membrane.</p>
+<p>The affinity for a signal molecule to it’s receptor is high (K <span class="math inline">\(\ge\)</span> 10<span class="math inline">\(^8\)</span> liters/mole).</p>
+<p>An extracellular signal molecule is called a ligand. Most ligands bind to a receptor on the outside of the cell membrane but some bind to receptors inside the cell. In order for this to work the ligand must be sufficiently small and hydrophobic enough for it to diffuse across the membrane.</p>
+<p><img src="20230215_191756.jpg" class="img-fluid"></p>
+<p>The spatial or temporal extent of a paracrine signal can be restricted via rapid uptake by neighboring target cells, destruction by extracellular enzymes, immobilization by the extracellular matrix, or screted protein antagonists.</p>
+<p>Heparin sulfate proteoglycans found either in the extracellular matrix or on the membrane of a cell often play a role in the localiztion of signaling proteins. The do this using extra long polysaccharides side chains that bind to the signal protein.</p>
+<p>In the case of neurotransmitters, the binding affinity of the transmitter to it receptor is low so that it can dissociate from the receptor quickly to rapidly terminate a response. Neurotransmitters are quickly removed from the synaptic cleft via hydrolytic enzymes that destroy the transmitters or membrane transport proteins that pump them back to the nerve terminal or neighboring glial cells.</p>
+<p>Tthe binding affinity of hormones to their receptors is higher than the binding affinity of neurotransmitters to their receptors.</p>
+<p><img src="20230215_193710.jpg" class="img-fluid"></p>
+</section>
+<section id="each-cell-is-programmed" class="level2">
+<h2 class="anchored" data-anchor-id="each-cell-is-programmed">Each Cell is Programmed…</h2>
+<p>When it is said that a cell differentiates it means that the cell is changing which genes it is expressing to become a more specific cell.</p>
+<p>Apoptosis is programmed cell death that can by the cell being deprived of it’s required signals.</p>
+<p><img src="20230215_194754.jpg" class="img-fluid"></p>
+</section>
+<section id="figure-15-9" class="level2">
+<h2 class="anchored" data-anchor-id="figure-15-9">Figure 15-9</h2>
+<p><img src="20230215_174721.jpg" class="img-fluid"></p>
+<p>A single signal molecule contains little information thus it can act as a signal for multiple cells to induce different responses because the receptors on each cell can intiate a protein cascade unique to that cell. From this we can assume the signal molecule evloved before the receptors.</p>
+</section>
+<section id="a-cell-can-alter" class="level2">
+<h2 class="anchored" data-anchor-id="a-cell-can-alter">A Cell Can Alter…</h2>
+<p>The time required for a molecule to shift halfway from its old to a new equalibirum is its half-life.</p>
+</section>
+<section id="figure-15-12" class="level2">
+<h2 class="anchored" data-anchor-id="figure-15-12">Figure 15-12</h2>
+<p><img src="20230215_195953.jpg" class="img-fluid"></p>
+<p>NO is the gas nitric oxide. Since NO is a gas it can easily diffuse across the cell membrane.</p>
+</section>
+<section id="nuclear-receptors-are-ligand-modulated" class="level2">
+<h2 class="anchored" data-anchor-id="nuclear-receptors-are-ligand-modulated">Nuclear Receptors are Ligand-Modulated…</h2>
+<p>The four kinds of hydrophobic signal molecules mentioned in the text that bind to receptors that control gene transcription are thyroid hormones, retinoids, steriod hormones, and Vitamin D.</p>
+<p>An orphan nuclear receptor is a receptor where the DNA sequence has been identified for the receptor but not its related ligand.</p>
+<p>In order to travel through the bloodstream without aggregating via their hydrophobic regions, steroids bind to specific carrier proteins.</p>
+<p>Nuclear receptors can be found in the cytosol or bound to DNA in the nucleus when not bond to a ligand. IN both cases inhibitory protein complexes prevent nuclear receptor activity in the absence of ligand.</p>
+<p><img src="20230215_201904.jpg" class="img-fluid"> The same ligand and nuclear receptor can cause different effects in different cell types because each cell has a combination of ohter cell-type-specific gene regulatory proteins that collaborate with the active receptor.</p>
+<p><img src="20230215_202352.jpg" class="img-fluid"></p>
+<p>Negative feedback can regulate the expression of primary response genes by some of the proteins produced in the primary response acting back to inhibit the transcription of the primary response gene.</p>
+</section>
+<section id="the-three-largest-classes" class="level2">
+<h2 class="anchored" data-anchor-id="the-three-largest-classes">The Three Largest Classes…</h2>
+<p>The three classes of cell-surface receptor proteins are: ion-channel-coupled, G-protein-coupled, and enzyme-coupled.</p>
+<p><img src="20230215_210014.jpg" class="img-fluid"></p>
+<p>These cell-surface receptors act as signal transducers by converting an extracellular ligand-binding event into intracellular signals that alter the behavior of the target cell.</p>
+</section>
+<section id="most-activated-cell-surface-receptors" class="level2">
+<h2 class="anchored" data-anchor-id="most-activated-cell-surface-receptors">Most Activated Cell-Surface Receptors…</h2>
+<p>The small intracellular signaling molecules are called small intracellular mediators, or second messengers.</p>
+<p><img src="20230215_210634.jpg" class="img-fluid"> ## Figure 15-18</p>
+<p><img src="Screenshot%202023-01-26%20132800.jpg" class="img-fluid"></p>
+</section>
+<section id="many-intracellular-signaling-proteins" class="level2">
+<h2 class="anchored" data-anchor-id="many-intracellular-signaling-proteins">Many Intracellular Signaling Proteins…</h2>
+</section>
+<section id="modular-interaction-domains" class="level2">
+<h2 class="anchored" data-anchor-id="modular-interaction-domains">Modular Interaction Domains</h2>
+</section>
+<section id="intracellular-signaling-networks" class="level2">
+<h2 class="anchored" data-anchor-id="intracellular-signaling-networks">Intracellular Signaling Networks</h2>
+</section>
+<section id="figure-15-29" class="level2">
+<h2 class="anchored" data-anchor-id="figure-15-29">Figure 15-29</h2>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

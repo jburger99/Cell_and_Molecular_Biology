@@ -8,11 +8,11 @@ The lipid bilayer is predominantly held together by non-covalent bonds.
 
 Membranes play major roles in the cell including:
 
-- enclosing the cell by defining boundaries and maintaining the differences between the cytosol and extracellular environment
+-   enclosing the cell by defining boundaries and maintaining the differences between the cytosol and extracellular environment
 
-- maintaining the different characteristics of the contents of membrane-bound organelles 
+-   maintaining the different characteristics of the contents of membrane-bound organelles
 
-- performing different functions as determined by transmembrane proteins
+-   performing different functions as determined by transmembrane proteins
 
 ## Phosphoglycerides, sphingolipids, and sterols...
 
@@ -22,37 +22,44 @@ Lipids are amphiphilic, having both a hydrophilic and hydrophobic end. The fluid
 
 Most phospholipids are phosphoglycerides. The three phosphoglycerides are:
 
-- phosphatidylethanolamine (+)
+-   phosphatidylethanolamine
 
-- phosphatidylserine (-)
+-   phosphatidylserine (-)
 
-- phosphatidylcholine (+)
+-   phosphatidylcholine
 
-![](20230130_190135.jpg)
+![](20230130_190135.jpg){width="50%"}
 
-Another important phospholipid is sphingomyelin which contains a free hydroxyl group which contributes to the polar properties of the adjacent head group because it can form hydrogen bonds with neighboring head groups. 
+Another important phospholipid is sphingomyelin which contains a free hydroxyl group which contributes to the polar properties of the adjacent head group because it can form hydrogen bonds with neighboring head groups.
 
-IN addation to phospholipids, membranes can include cholesterol. Cholesterol is a sterol containing a rigid ring structure which is attached to a polar hydroxyl group and a nonpolar hydrocarbon chain. 
+![](Lipids.png){width="100%"}
+
+In addation to phospholipids, membranes can include cholesterol. Cholesterol is a sterol containing a rigid ring structure which is attached to a polar hydroxyl group and a nonpolar hydrocarbon chain.
 
 ## Phopholipids spontaneously form bilayers
 
-Phospholipids form bilayers or micelles because this is an energetically favorable confirmation in an aqueous environment. If the hydrophobic tails of the phospholipids are exposed to water the system is energenically unfavorable. Whether or not phospolipids form a bilayer or micelle is dependent on the shape of the phospholipids. 
+Phospholipids form bilayers or micelles because this is an energetically favorable confirmation in an aqueous environment.
+
+![](lipid_free_energy.jpg)
+
+If the hydrophobic tails of the phospholipids are exposed to water the system is energetically unfavorable. Whether or not lipids form a bilayer or micelle is dependent on the shape of the lipids. Phospholipids are cylindrical and thus are more likely to fomr a bilayer. Micelles are formed from lipids with a conical shape.
+
+![](micelles.png){width="100%"}
 
 ## The fluidity of a lipid bilayer depends...
 
 The temperature at which the phase transition of a bilayer occurs is affected by the chain length of the phospholipids and the presence of double bonds. Shorter chains reduce the likelihood of the hydrocarbon tails to interact with each other. Cis-double bonded hydrocarbon chains produce kinks that make them more difficult to pack together. However, cis-double bonded unsaturated hydrocarbons produce a thinner bilayer than saturated hydrocarbons.
 
-The hydroxyl group of xholesterol interacts with the polar heads of phospholipids causing the rigid, platelike steroid rings to interact with and partially immobilize those sections of the hydrocarbon chains. This immobilization also vauses the bilayer to be less permiable to small water-soluble molecules by making it less deformable. 
+The hydroxyl group of cholesterol interacts with the polar heads of phospholipids causing the rigid, platelike steroid rings to interact with and partially immobilize those sections of the hydrocarbon chains. This immobilization also causes the bilayer to be less permeable to small water-soluble molecules by making it less deformable.
 
-Bacterial membranes tend to be composed of a singular phospholipid and no cholesterol. Conversely, animal cells can contain multiple phospholipids as well as cholesterol. 
+Bacterial membranes tend to be composed of a singular phospholipid and no cholesterol. Conversely, animal cells can contain multiple phospholipids as well as cholesterol.
 
 ## Despite their fluidity...
 
 In a membrane, specialized domains of lipids can form called lipid rafts. These rafts contain sphinoglipids which have hydrocarbon chains that are longer and straighter than other lipids. This causes the rafts to be thicker than other parts of the bilayer. Lipid rafts better accommodate certain membrane proteins by stabilizing the region by segregating proteins and lipids.
 
-## The Asymmetry of the Lipid Bilayer...”
+## The Asymmetry of the Lipid Bilayer..."
 
-The composition of each layer of the lipid bilayer in many membrane can be very different. 
+The composition of each layer of the lipid bilayer in many membrane can be very different.
 
 ## The ER Assembles...
-

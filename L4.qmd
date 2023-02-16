@@ -72,9 +72,11 @@ One third of all proteins in mammalian cells are thought to be phosphorylated at
 
 ### A Eukaryotic Cell Contains a large...
 
-Protein phosphorylation involves the enzyme-catalyzed transfer of the terminal phosphate of an ATP molecule to the hydroxyl group on a serine, theonine, or tyrosine side chain of the protein. Phosphorylation is considered an unidirectional reaction because of the large amount of free energy released when the phosphate-phosphate bond is broken to convert ATP to ADP. Protein kinases catalyse the phosphorylation reaction. A protein phosphatase catalyzes the reverse reaction.
+Protein phosphorylation involves the enzyme-catalyzed transfer of the terminal phosphate of an ATP molecule to the hydroxyl group on a serine, theonine, or tyrosine side chain of the protein. Phosphorylation is considered an unidirectional reaction because of the large amount of free energy released when the phosphate-phosphate bond is broken to convert ATP to ADP. Protein kinases catalyze the phosphorylation reaction. A protein phosphatase catalyzes the reverse reaction.
 
 ### Proteins that bind and hydrolyze GTP...
+
+GTPases
 
 ![](Screenshot%202023-01-26%20132347.jpg)
 

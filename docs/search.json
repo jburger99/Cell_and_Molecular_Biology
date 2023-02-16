@@ -32,7 +32,7 @@
     "href": "L4.html",
     "title": "Lesson 4: Protein Regulation",
     "section": "",
-    "text": "Allosteric enzymes have two or more…\nAllosteric regulation is regulation that occurs when a molecule binds to the regulatory site of a enzyme causing its confirmation to change blocking or enhancing the active site.\nRegulatory site: binding site for a regulatory molecule\nActive site: binding site for substrates\n\n\n\n\n\n\nMany changes in proteins are driven…\nPhosphorylation is a covalent modification of a enzyme where a phosphate group is added to the protein. The ways that phosphorylation can affect activity of a protein are:\n\nby attracting a cluster of positively amino acid side chains causing a major confirmation change.\nforming part of a structure that the binding sites of other proteins (adaptor proteins) recognize.\nmasking binding sites for protein-protein interactions\n\nOne third of all proteins in mammalian cells are thought to be phosphorylated at a given time. A protein can be phosphorylated in multiple places but a polyphosphate chain cannot be formed.\n\n\n\nA Eukaryotic Cell Contains a large…\nProtein phosphorylation involves the enzyme-catalyzed transfer of the terminal phosphate of an ATP molecule to the hydroxyl group on a serine, theonine, or tyrosine side chain of the protein. Phosphorylation is considered an unidirectional reaction because of the large amount of free energy released when the phosphate-phosphate bond is broken to convert ATP to ADP. Protein kinases catalyse the phosphorylation reaction. A protein phosphatase catalyzes the reverse reaction.\n\n\nProteins that bind and hydrolyze GTP…\n\n\n\nRegulatory Proteins Control…\n\n\nThe Activation of Protein Machines…"
+    "text": "Allosteric enzymes have two or more…\nAllosteric regulation is regulation that occurs when a molecule binds to the regulatory site of a enzyme causing its confirmation to change blocking or enhancing the active site.\nRegulatory site: binding site for a regulatory molecule\nActive site: binding site for substrates\n\n\n\n\n\n\nMany changes in proteins are driven…\nPhosphorylation is a covalent modification of a enzyme where a phosphate group is added to the protein. The ways that phosphorylation can affect activity of a protein are:\n\nby attracting a cluster of positively amino acid side chains causing a major confirmation change.\nforming part of a structure that the binding sites of other proteins (adaptor proteins) recognize.\nmasking binding sites for protein-protein interactions\n\nOne third of all proteins in mammalian cells are thought to be phosphorylated at a given time. A protein can be phosphorylated in multiple places but a polyphosphate chain cannot be formed.\n\n\n\nA Eukaryotic Cell Contains a large…\nProtein phosphorylation involves the enzyme-catalyzed transfer of the terminal phosphate of an ATP molecule to the hydroxyl group on a serine, theonine, or tyrosine side chain of the protein. Phosphorylation is considered an unidirectional reaction because of the large amount of free energy released when the phosphate-phosphate bond is broken to convert ATP to ADP. Protein kinases catalyze the phosphorylation reaction. A protein phosphatase catalyzes the reverse reaction.\n\n\nProteins that bind and hydrolyze GTP…\nGTPases\n\n\n\nRegulatory Proteins Control…\n\n\nThe Activation of Protein Machines…"
   },
   {
     "objectID": "Methods.html",
@@ -46,21 +46,21 @@
     "href": "L5.html#phosphoglycerides-sphingolipids-and-sterols",
     "title": "Lesson 5: The Lipid Bilayer and Membrane Synthesis",
     "section": "Phosphoglycerides, sphingolipids, and sterols…",
-    "text": "Phosphoglycerides, sphingolipids, and sterols…\nApproximately 50% of the mass of a most animal cells is made up of lipids. In a 1\\(\\mu\\)m X 1\\(\\mu\\)m area there are about 5 x 10\\(^6\\) lipid molecules, or about 10\\(^9\\) in the plasma membrane of small animal cell. Therefore a small animal cell is approximately 200 \\(\\mu\\)m\\(^2\\).\nLipids are amphiphilic, having both a hydrophilic and hydrophobic end. The fluidity of a membrane is affected by the differences in the length and saturation of the phospholipids.\nMost phospholipids are phosphoglycerides. The three phosphoglycerides are:\n\nphosphatidylethanolamine (+)\nphosphatidylserine (-)\nphosphatidylcholine (+)\n\n\nAnother important phospholipid is sphingomyelin which contains a free hydroxyl group which contributes to the polar properties of the adjacent head group because it can form hydrogen bonds with neighboring head groups.\nIN addation to phospholipids, membranes can include cholesterol. Cholesterol is a sterol containing a rigid ring structure which is attached to a polar hydroxyl group and a nonpolar hydrocarbon chain."
+    "text": "Phosphoglycerides, sphingolipids, and sterols…\nApproximately 50% of the mass of a most animal cells is made up of lipids. In a 1\\(\\mu\\)m X 1\\(\\mu\\)m area there are about 5 x 10\\(^6\\) lipid molecules, or about 10\\(^9\\) in the plasma membrane of small animal cell. Therefore a small animal cell is approximately 200 \\(\\mu\\)m\\(^2\\).\nLipids are amphiphilic, having both a hydrophilic and hydrophobic end. The fluidity of a membrane is affected by the differences in the length and saturation of the phospholipids.\nMost phospholipids are phosphoglycerides. The three phosphoglycerides are:\n\nphosphatidylethanolamine\nphosphatidylserine (-)\nphosphatidylcholine\n\n\nAnother important phospholipid is sphingomyelin which contains a free hydroxyl group which contributes to the polar properties of the adjacent head group because it can form hydrogen bonds with neighboring head groups.\n\nIn addation to phospholipids, membranes can include cholesterol. Cholesterol is a sterol containing a rigid ring structure which is attached to a polar hydroxyl group and a nonpolar hydrocarbon chain."
   },
   {
     "objectID": "L5.html#phopholipids-spontaneously-form-bilayers",
     "href": "L5.html#phopholipids-spontaneously-form-bilayers",
     "title": "Lesson 5: The Lipid Bilayer and Membrane Synthesis",
     "section": "Phopholipids spontaneously form bilayers",
-    "text": "Phopholipids spontaneously form bilayers\nPhospholipids form bilayers or micelles because this is an energetically favorable confirmation in an aqueous environment. If the hydrophobic tails of the phospholipids are exposed to water the system is energenically unfavorable. Whether or not phospolipids form a bilayer or micelle is dependent on the shape of the phospholipids."
+    "text": "Phopholipids spontaneously form bilayers\nPhospholipids form bilayers or micelles because this is an energetically favorable confirmation in an aqueous environment.\n\nIf the hydrophobic tails of the phospholipids are exposed to water the system is energetically unfavorable. Whether or not lipids form a bilayer or micelle is dependent on the shape of the lipids. Phospholipids are cylindrical and thus are more likely to fomr a bilayer. Micelles are formed from lipids with a conical shape."
   },
   {
     "objectID": "L5.html#the-fluidity-of-a-lipid-bilayer-depends",
     "href": "L5.html#the-fluidity-of-a-lipid-bilayer-depends",
     "title": "Lesson 5: The Lipid Bilayer and Membrane Synthesis",
     "section": "The fluidity of a lipid bilayer depends…",
-    "text": "The fluidity of a lipid bilayer depends…\nThe temperature at which the phase transition of a bilayer occurs is affected by the chain length of the phospholipids and the presence of double bonds. Shorter chains reduce the likelihood of the hydrocarbon tails to interact with each other. Cis-double bonded hydrocarbon chains produce kinks that make them more difficult to pack together. However, cis-double bonded unsaturated hydrocarbons produce a thinner bilayer than saturated hydrocarbons.\nThe hydroxyl group of xholesterol interacts with the polar heads of phospholipids causing the rigid, platelike steroid rings to interact with and partially immobilize those sections of the hydrocarbon chains. This immobilization also vauses the bilayer to be less permiable to small water-soluble molecules by making it less deformable.\nBacterial membranes tend to be composed of a singular phospholipid and no cholesterol. Conversely, animal cells can contain multiple phospholipids as well as cholesterol."
+    "text": "The fluidity of a lipid bilayer depends…\nThe temperature at which the phase transition of a bilayer occurs is affected by the chain length of the phospholipids and the presence of double bonds. Shorter chains reduce the likelihood of the hydrocarbon tails to interact with each other. Cis-double bonded hydrocarbon chains produce kinks that make them more difficult to pack together. However, cis-double bonded unsaturated hydrocarbons produce a thinner bilayer than saturated hydrocarbons.\nThe hydroxyl group of cholesterol interacts with the polar heads of phospholipids causing the rigid, platelike steroid rings to interact with and partially immobilize those sections of the hydrocarbon chains. This immobilization also causes the bilayer to be less permeable to small water-soluble molecules by making it less deformable.\nBacterial membranes tend to be composed of a singular phospholipid and no cholesterol. Conversely, animal cells can contain multiple phospholipids as well as cholesterol."
   },
   {
     "objectID": "L5.html#despite-their-fluidity",
@@ -89,5 +89,166 @@
     "title": "Lesson 5: The Lipid Bilayer and Membrane Synthesis",
     "section": "",
     "text": "The lipid bilayer is predominantly held together by non-covalent bonds.\nMembranes play major roles in the cell including:\n\nenclosing the cell by defining boundaries and maintaining the differences between the cytosol and extracellular environment\nmaintaining the different characteristics of the contents of membrane-bound organelles\nperforming different functions as determined by transmembrane proteins"
+  },
+  {
+    "objectID": "L10.html",
+    "href": "L10.html",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "",
+    "text": "Intercellular signals are signals sent from one cell to another. Intracellular signals are those that occur within a single cell.\n From figure 15-1 we can see that intracellular signalling starts with a receptor protein that recieves a signal from a extracellular signal molecule and end with an alteration to the cell catalyzed by a effector protein with intracellular signaling proteins acting as a mediating step.\nReceptor proteins are usually bond to the cell membrane of the target cell."
+  },
+  {
+    "objectID": "L10.html#general-principles",
+    "href": "L10.html#general-principles",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "General Principles…",
+    "text": "General Principles…\nQuorum sensing is when cells respond to chemical signals that are secreted by their neighbors and increase in concentration with an increase in population density.\nThere are over 1500 human gene that encode for receptor proteins."
+  },
+  {
+    "objectID": "L10.html#extracellular-signal-molecules",
+    "href": "L10.html#extracellular-signal-molecules",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Extracellular Signal Molecules…",
+    "text": "Extracellular Signal Molecules…\nAnimal cell signal molecules can be: proteins, small peptides, amino acids, nucleotides, steroids, retinoids, fatty acids derivatives, and dissolved gases.\nThe most common ways for signal molecules to be transmitted are exocytosis, diffusion across the cell membrane, and transmembrane proteins on the signaling cell’s membrane.\nThe affinity for a signal molecule to it’s receptor is high (K \\(\\ge\\) 10\\(^8\\) liters/mole).\nAn extracellular signal molecule is called a ligand. Most ligands bind to a receptor on the outside of the cell membrane but some bind to receptors inside the cell. In order for this to work the ligand must be sufficiently small and hydrophobic enough for it to diffuse across the membrane.\n\nThe spatial or temporal extent of a paracrine signal can be restricted via rapid uptake by neighboring target cells, destruction by extracellular enzymes, immobilization by the extracellular matrix, or screted protein antagonists.\nHeparin sulfate proteoglycans found either in the extracellular matrix or on the membrane of a cell often play a role in the localiztion of signaling proteins. The do this using extra long polysaccharides side chains that bind to the signal protein.\nIn the case of neurotransmitters, the binding affinity of the transmitter to it receptor is low so that it can dissociate from the receptor quickly to rapidly terminate a response. Neurotransmitters are quickly removed from the synaptic cleft via hydrolytic enzymes that destroy the transmitters or membrane transport proteins that pump them back to the nerve terminal or neighboring glial cells.\nTthe binding affinity of hormones to their receptors is higher than the binding affinity of neurotransmitters to their receptors."
+  },
+  {
+    "objectID": "L10.html#each-cell-is-programmed",
+    "href": "L10.html#each-cell-is-programmed",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Each Cell is Programmed…",
+    "text": "Each Cell is Programmed…\nWhen it is said that a cell differentiates it means that the cell is changing which genes it is expressing to become a more specific cell.\nApoptosis is programmed cell death that can by the cell being deprived of it’s required signals."
+  },
+  {
+    "objectID": "L10.html#figure-15-9",
+    "href": "L10.html#figure-15-9",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Figure 15-9",
+    "text": "Figure 15-9\n\nA single signal molecule contains little information thus it can act as a signal for multiple cells to induce different responses because the receptors on each cell can intiate a protein cascade unique to that cell. From this we can assume the signal molecule evloved before the receptors."
+  },
+  {
+    "objectID": "L10.html#a-cell-can-alter",
+    "href": "L10.html#a-cell-can-alter",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "A Cell Can Alter…",
+    "text": "A Cell Can Alter…\nThe time required for a molecule to shift halfway from its old to a new equalibirum is its half-life."
+  },
+  {
+    "objectID": "L10.html#figure-15-12",
+    "href": "L10.html#figure-15-12",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Figure 15-12",
+    "text": "Figure 15-12\n\nNO is the gas nitric oxide. Since NO is a gas it can easily diffuse across the cell membrane."
+  },
+  {
+    "objectID": "L10.html#nuclear-receptors-are-ligand-modulated",
+    "href": "L10.html#nuclear-receptors-are-ligand-modulated",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Nuclear Receptors are Ligand-Modulated…",
+    "text": "Nuclear Receptors are Ligand-Modulated…\nThe four kinds of hydrophobic signal molecules mentioned in the text that bind to receptors that control gene transcription are thyroid hormones, retinoids, steriod hormones, and Vitamin D.\nAn orphan nuclear receptor is a receptor where the DNA sequence has been identified for the receptor but not its related ligand.\nIn order to travel through the bloodstream without aggregating via their hydrophobic regions, steroids bind to specific carrier proteins.\nNuclear receptors can be found in the cytosol or bound to DNA in the nucleus when not bond to a ligand. IN both cases inhibitory protein complexes prevent nuclear receptor activity in the absence of ligand.\n The same ligand and nuclear receptor can cause different effects in different cell types because each cell has a combination of ohter cell-type-specific gene regulatory proteins that collaborate with the active receptor.\n\nNegative feedback can regulate the expression of primary response genes by some of the proteins produced in the primary response acting back to inhibit the transcription of the primary response gene."
+  },
+  {
+    "objectID": "L10.html#the-three-largest-classes",
+    "href": "L10.html#the-three-largest-classes",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "The Three Largest Classes…",
+    "text": "The Three Largest Classes…\nThe three classes of cell-surface receptor proteins are: ion-channel-coupled, G-protein-coupled, and enzyme-coupled.\n\nThese cell-surface receptors act as signal transducers by converting an extracellular ligand-binding event into intracellular signals that alter the behavior of the target cell."
+  },
+  {
+    "objectID": "L10.html#most-activated-cell-surface-receptors",
+    "href": "L10.html#most-activated-cell-surface-receptors",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Most Activated Cell-Surface Receptors…",
+    "text": "Most Activated Cell-Surface Receptors…\nThe small intracellular signaling molecules are called small intracellular mediators, or second messengers.\n ## Figure 15-18"
+  },
+  {
+    "objectID": "L10.html#many-intracellular-signaling-proteins",
+    "href": "L10.html#many-intracellular-signaling-proteins",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Many Intracellular Signaling Proteins…",
+    "text": "Many Intracellular Signaling Proteins…"
+  },
+  {
+    "objectID": "L10.html#modular-interaction-domains",
+    "href": "L10.html#modular-interaction-domains",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Modular Interaction Domains",
+    "text": "Modular Interaction Domains"
+  },
+  {
+    "objectID": "L10.html#intracellular-signaling-networks",
+    "href": "L10.html#intracellular-signaling-networks",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Intracellular Signaling Networks",
+    "text": "Intracellular Signaling Networks"
+  },
+  {
+    "objectID": "L10.html#figure-15-29",
+    "href": "L10.html#figure-15-29",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Figure 15-29",
+    "text": "Figure 15-29"
+  },
+  {
+    "objectID": "L6.html",
+    "href": "L6.html",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "",
+    "text": "On average 50% of the mass of a membrane is proteins. For every protein there are many more lipids. For a membrane with 50% protein mass there are approximately 50 lipids for each protein."
+  },
+  {
+    "objectID": "L6.html#membrane-proteins-can-be-associated",
+    "href": "L6.html#membrane-proteins-can-be-associated",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "Membrane proteins can be associated…",
+    "text": "Membrane proteins can be associated…\n\nIn the above figure, example 1 displays a transmembrane protein that is amphiphilic, having a hydrophobic and hydrophilic end, that is covalently attached to a fatty acids which inserts into the cytosolic leaf of the bilayer increasing the hydrophbicity of the protein. This protein has a single \\(\\alpha\\) helix that extends across the bilayer. Example 2 is a transmembrane protein that is inserted into the membrane with three \\(\\alpha\\) helices spanning the membrane. Example 3 is yet another transmembrane protein that spans the bilayer with a rolled up \\(\\beta\\) sheet called a \\(\\beta\\) barrel. Example 4 shows a membrane protein with a single amphiphilic \\(\\alpha\\) helix exposed on the surface attaching it to the cytosolic leaf. Example 5 is a soluable protein made in the cytosol that are covalently attached to a fatty acid chain that anchores them to the cytosolic leaf. Example 6 is a protein that is made as a single-pass transmembrane protein in the ER with a GPI anchor attaching it to the bilayer. Examples 7 & 8 are proteins that do not associated directly with the bilayer (known as peripheral membrane proteins) but rather have noncovalent interactions with other proteins (known as integral membrane proteins).\n\nPeripheral proteins can be released from their associated integral proteins by exposure to very high or very low ionic solutions or solutions of extreme pH."
+  },
+  {
+    "objectID": "L6.html#many-membrane-proteins-are-glycosylated",
+    "href": "L6.html#many-membrane-proteins-are-glycosylated",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "Many membrane proteins are glycosylated",
+    "text": "Many membrane proteins are glycosylated\nMany membrane proteins are glycosylated, meaning a sugar residue is added to them in the lumen of the ER or Golgi apparatus. Because of this, the oligosaccharide chains are always on the noncytosolic side of the membrane."
+  },
+  {
+    "objectID": "L6.html#the-endoplasmic-reticulum",
+    "href": "L6.html#the-endoplasmic-reticulum",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "The Endoplasmic Reticulum",
+    "text": "The Endoplasmic Reticulum"
+  },
+  {
+    "objectID": "L6.html#the-er-is-structurally",
+    "href": "L6.html#the-er-is-structurally",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "The ER is structurally…",
+    "text": "The ER is structurally…"
+  },
+  {
+    "objectID": "L6.html#signal-sequences-were-first-discovered",
+    "href": "L6.html#signal-sequences-were-first-discovered",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "Signal Sequences were first discovered…",
+    "text": "Signal Sequences were first discovered…"
+  },
+  {
+    "objectID": "L6.html#a-signal-recognition-particle",
+    "href": "L6.html#a-signal-recognition-particle",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "A signal-recognition particle…",
+    "text": "A signal-recognition particle…"
+  },
+  {
+    "objectID": "L6.html#in-single-pass-transmembrane-proteins",
+    "href": "L6.html#in-single-pass-transmembrane-proteins",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "In single-pass transmembrane proteins…",
+    "text": "In single-pass transmembrane proteins…"
+  },
+  {
+    "objectID": "L6.html#most-proteins-synthesized-in-the-rough-er",
+    "href": "L6.html#most-proteins-synthesized-in-the-rough-er",
+    "title": "Lesson 6: Membrane Proteins",
+    "section": "Most proteins synthesized in the rough ER…",
+    "text": "Most proteins synthesized in the rough ER…"
   }
 ]
