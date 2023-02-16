@@ -165,21 +165,21 @@
     "href": "L10.html#many-intracellular-signaling-proteins",
     "title": "Lesson 10: Cell Signaling",
     "section": "Many Intracellular Signaling Proteins…",
-    "text": "Many Intracellular Signaling Proteins…"
+    "text": "Many Intracellular Signaling Proteins…\n30% of proteins in a cell are phosphorylated at any given moment.\nThere are about 520 kinases and 150 phosphatase genes are in the human genome.\nA phosphorylation cascade is when one kinase is activated by phosphorylation and in turn phosphorylates the next kinase in a sequence and so on, relaying the signal onward in the process.\nThe two families of kinases are serine and threonine kinases.\nThe two types of G-proteins are trimeric GTP-binding proteins and monomeric GTPases.\nAn RGS protein is a regulator of G-protein signaling protein.\nA coincidence detector protein is a protein that only activates after recieving multiple signals.\nPhosphorylation always turns on a protein."
   },
   {
     "objectID": "L10.html#modular-interaction-domains",
     "href": "L10.html#modular-interaction-domains",
     "title": "Lesson 10: Cell Signaling",
     "section": "Modular Interaction Domains",
-    "text": "Modular Interaction Domains"
+    "text": "Modular Interaction Domains\nThe function of interaction domains is to bind to a particular structural motiff in a protein or lipid molecule with which the signal protein interacts.\nA highly conserved domain is a domain that is consistenly reoccuring in molecular evolution.\nThe 4 examples of interaction domains are Src homology 2 (SH2), phosphotyrosine-binding domains (PTB), Src homology 3 (SH3), and pleckstrin homology (PH).\nBinding:\n\nSH2 and PTB bind to phosphorylated tyrosines in a particular peptide sequences on activated receptors or intracellular signaling proteins.\nSH3 binds to short proline-rich amino acid sequences.\n\nPH binds to the charged head groups of phosphoimositides that are produced in the plasma membrane in response to an extracellular signal.\nAdaptor proteins are signal proteins that link two other proteins in a signal pathway."
   },
   {
     "objectID": "L10.html#intracellular-signaling-networks",
     "href": "L10.html#intracellular-signaling-networks",
     "title": "Lesson 10: Cell Signaling",
     "section": "Intracellular Signaling Networks",
-    "text": "Intracellular Signaling Networks"
+    "text": "Intracellular Signaling Networks\nPositive feedback loops lead to self-sustaining activation by constantly adding to the activation of the signal pathway."
   },
   {
     "objectID": "L10.html#figure-15-29",
