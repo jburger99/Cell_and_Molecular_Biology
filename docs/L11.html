@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>BIO376 - Lesson 11: Signaling Through G-protein-linked Pathways</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Lesson 11: Signaling Through G-protein-linked Pathways</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">BIO376</a> 
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Unit 1</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L1.html" class="sidebar-item-text sidebar-link">Lesson 1: Enzymes and Free Energy</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Methods.html" class="sidebar-item-text sidebar-link">Methods in Cell Biology</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L2.html" class="sidebar-item-text sidebar-link">Lesson 2: Protein Folding and Chaprones</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L3.html" class="sidebar-item-text sidebar-link">Lesson 3: Protein Degradation System</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Unit 2</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L4.html" class="sidebar-item-text sidebar-link">Lesson 4: Protein Regulation</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L5.html" class="sidebar-item-text sidebar-link">Lesson 5: The Lipid Bilayer and Membrane Synthesis</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L6.html" class="sidebar-item-text sidebar-link">Lesson 6: Membrane Proteins</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">Unit 3</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L10.html" class="sidebar-item-text sidebar-link">Lesson 10: Cell Signaling</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./L11.html" class="sidebar-item-text sidebar-link active">Lesson 11: Signaling Through G-protein-linked Pathways</a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#signaling-through-g-protein-coupled-cell-surface" id="toc-signaling-through-g-protein-coupled-cell-surface" class="nav-link active" data-scroll-target="#signaling-through-g-protein-coupled-cell-surface">Signaling through G-protein-coupled Cell-surface…</a></li>
+  <li><a href="#trimeric-g-proteins-relay-signals-from-gpcrs" id="toc-trimeric-g-proteins-relay-signals-from-gpcrs" class="nav-link" data-scroll-target="#trimeric-g-proteins-relay-signals-from-gpcrs">Trimeric G proteins relay signals from GPCRs</a></li>
+  <li><a href="#some-g-proteins-regulate" id="toc-some-g-proteins-regulate" class="nav-link" data-scroll-target="#some-g-proteins-regulate">Some G proteins regulate…</a></li>
+  <li><a href="#cyclic-amp-dependent-protein-kinase-pka" id="toc-cyclic-amp-dependent-protein-kinase-pka" class="nav-link" data-scroll-target="#cyclic-amp-dependent-protein-kinase-pka">Cyclic-AMP-Dependent Protein Kinase (PKA)</a></li>
+  <li><a href="#some-g-proteins-activate-an-inositol" id="toc-some-g-proteins-activate-an-inositol" class="nav-link" data-scroll-target="#some-g-proteins-activate-an-inositol">Some G Proteins Activate an Inositol…</a></li>
+  <li><a href="#ca2-functions-as-a-ubiquitous-intracellular-mediator" id="toc-ca2-functions-as-a-ubiquitous-intracellular-mediator" class="nav-link" data-scroll-target="#ca2-functions-as-a-ubiquitous-intracellular-mediator">Ca2+ Functions as a Ubiquitous Intracellular Mediator</a></li>
+  <li><a href="#ca2calmodulin-dependent-protein-kinases" id="toc-ca2calmodulin-dependent-protein-kinases" class="nav-link" data-scroll-target="#ca2calmodulin-dependent-protein-kinases">Ca2+/Calmodulin-Dependent Protein Kinases…</a></li>
+  <li><a href="#some-g-proteins-directly-regulate-ion-channels" id="toc-some-g-proteins-directly-regulate-ion-channels" class="nav-link" data-scroll-target="#some-g-proteins-directly-regulate-ion-channels">Some G proteins Directly Regulate Ion Channels</a></li>
+  <li><a href="#intracellular-mediators-and-enzymatic-cascades" id="toc-intracellular-mediators-and-enzymatic-cascades" class="nav-link" data-scroll-target="#intracellular-mediators-and-enzymatic-cascades">Intracellular Mediators and Enzymatic Cascades…</a></li>
+  <li><a href="#gpcr-desensitization-depends" id="toc-gpcr-desensitization-depends" class="nav-link" data-scroll-target="#gpcr-desensitization-depends">GPCR Desensitization depends…</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Lesson 11: Signaling Through G-protein-linked Pathways</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="signaling-through-g-protein-coupled-cell-surface" class="level2">
+<h2 class="anchored" data-anchor-id="signaling-through-g-protein-coupled-cell-surface">Signaling through G-protein-coupled Cell-surface…</h2>
+<p>There are more than 700 GPCRs in humans.</p>
+<p>A single ligand can activate multiple GCPRs.</p>
+<p>A GPCR consits of a single polypeptide chain threaded seven times across the cell membrane. All GPCRs use G proteins to relay signals to cell interior.</p>
+<p><img src="20230222_164708.jpg" class="img-fluid"></p>
+</section>
+<section id="trimeric-g-proteins-relay-signals-from-gpcrs" class="level2">
+<h2 class="anchored" data-anchor-id="trimeric-g-proteins-relay-signals-from-gpcrs">Trimeric G proteins relay signals from GPCRs</h2>
+<p>The three subunits of a trimeric G protein are the <span class="math inline">\(\alpha\)</span> subunit, the <span class="math inline">\(\beta\)</span> subunit, and the <span class="math inline">\(\gamma\)</span> subunit.</p>
+<p>The <span class="math inline">\(\alpha\)</span> subunit is bound to a GDP when the G protein is inactive.</p>
+<p>When the G protein is activated the <span class="math inline">\(\alpha\)</span> subunit releases its bound GDP and binds to a GTP. The <span class="math inline">\(\alpha\)</span> subunit is a GTPase and hydrolyzes its bound GTP. When the bound GTP is hydrolyzed to a GDP the G protein becomes inactive.</p>
+<p>The <span class="math inline">\(\beta\)</span> and <span class="math inline">\(\gamma\)</span> subunits form a <span class="math inline">\(\beta \gamma\)</span> subunit. In most cases the conformational change that occurs upon the activation of the G protein dissociates the <span class="math inline">\(\alpha\)</span> subunit from the <span class="math inline">\(\beta \gamma\)</span> complex. In some situations, however, the <span class="math inline">\(\alpha\)</span> subunit remains associated with the <span class="math inline">\(\beta \gamma\)</span> complex.</p>
+<p>Regulators of G protein signaling (RGS) act as <span class="math inline">\(\alpha\)</span>-subunit-specific GTPase-activating proteins (GAPs) and they help shutoff G protein mediated responses.</p>
+</section>
+<section id="some-g-proteins-regulate" class="level2">
+<h2 class="anchored" data-anchor-id="some-g-proteins-regulate">Some G proteins regulate…</h2>
+<p>Adenylyl cyclase is a membrane bound enzyme that synthesizes cyclic AMP. Cyclic AMP is rapidly and continuously destroyed by cyclic AMP phosphodiesterase.</p>
+<p>To increase the concentration of cAMP in a cell, extracellular singaling molecules increase the activity of adenylyl cyclase against a background of cAMP phosphodiesterase activity.</p>
+<p>To control cAMP activity GPCRs use G<span class="math inline">\(_s\)</span> and G<span class="math inline">\(_i\)</span>. Stimulatory G protein or G<span class="math inline">\(_s\)</span> is used to increase cAMP activity. To decrease cAMP activity Inhibatory G protein or G<span class="math inline">\(_i\)</span> is used.</p>
+<p>Cholera toxin increase cAMP activity by modifying the <span class="math inline">\(\alpha\)</span> subunit of G<span class="math inline">\(_s\)</span> by transferring ADP ribose from intracellular NAD<span class="math inline">\(^+\)</span>. The ADP ribose prevents the <span class="math inline">\(\alpha\)</span> subunit from hydrolyzing its bound GTP, causing adenylyl cyclase to be constantly active. The prolonged elevation of cAMP in intestinal epithelial cells causes an increase of water and Cl<span class="math inline">\(^-\)</span> in the gut leading to severe diarrhea.</p>
+<p>Pertussis toxin catalyzes the ADP ribosylation of the <span class="math inline">\(\alpha\)</span> subuint of G<span class="math inline">\(_i\)</span>. This prevents G<span class="math inline">\(_i\)</span> from interacting with receptors resulting in the G protein reaining bound to its GDP, diabling its ability to regualte its target proteins.</p>
+<p><img src="20230222_190300.jpg" class="img-fluid"></p>
+</section>
+<section id="cyclic-amp-dependent-protein-kinase-pka" class="level2">
+<h2 class="anchored" data-anchor-id="cyclic-amp-dependent-protein-kinase-pka">Cyclic-AMP-Dependent Protein Kinase (PKA)</h2>
+<p>Cyclic-AMP-Dependent Protein Kinase (PKA), in an inactive state, is made up of two catalytic subunits and two regulatory subunits (also called A-kinases) that form a complex. The binding of cAMP causes the dissociation of the regulatory subunits by changing their conformation. This activates the PKA.</p>
+<p>An A-kinase anchoring protein (AKAP) located around the nucleus of a heart cell binds both PKA and phosphodiesterase that hyrdrolyzes cAMP. In an unstimulated cell the phospgodesterase keeps the cAMP concentration low to keep the PKA inactive. In a simulated cell the cAMP concentration is rapidly elevated activating the PKA. The PKA in turn activates the bound phosphodiesterase leading to a decrease in the cAMP concentration. This allows for a strong, brief, local pulse of PKA activity as apposed to a long, weak, general period of PKA activity.</p>
+<p>Cyclic AMP response element or CRE is a short DNA sequence found in the gene regulatory region of many cAMP activated genes. CRE-binding protein (CREB) recognizes the CRE. When PKA is activated by cAMP, it phosphorylates CREB on a single serine. The phosphorylated CREB then recruits CREB-binding protein (CBP) which stimulates the reanscription of the targeted genes.</p>
+</section>
+<section id="some-g-proteins-activate-an-inositol" class="level2">
+<h2 class="anchored" data-anchor-id="some-g-proteins-activate-an-inositol">Some G Proteins Activate an Inositol…</h2>
+<p>PIP<span class="math inline">\(_2\)</span> is present in small amounts in the inner hlaf og the plasma membrane bilayer.</p>
+<p>G<span class="math inline">\(_q\)</span> activates phospholipase C-<span class="math inline">\(\_beta\)</span> (PLC<span class="math inline">\(\beta\)</span>) a membrane bound enzyme that is often activated to extert the effects of GPCRs. G<span class="math inline">\(_q\)</span> activates PLC<span class="math inline">\(\beta\)</span> in a similar way to G<span class="math inline">\(_s\)</span> activating adenylyl cyclase. PLC<span class="math inline">\(\beta\)</span> cleaves PIP<span class="math inline">\(_2\)</span> into inositol 1,4,5-triphosphate (IP<span class="math inline">\(_3\)</span>) and diacylglycerol (DAG).</p>
+<p>IP<span class="math inline">\(_3\)</span> acts as a small intracellular mediator. It opens IP<span class="math inline">\(_3\)</span>-gated Ca<span class="math inline">\(^+{^2}\)</span> channels (also called PIP<span class="math inline">\(_3\)</span> receptors) on the ER to release Ca<span class="math inline">\(^+{^2}\)</span> found in the ER into the cytosol. This quickly increases the Ca<span class="math inline">\(^+{^2}\)</span> concentration of the cytosol.</p>
+<p>DAG also acts as a small intracellular mediator. DAG, however, remains embedded in the plasma membrane where it has several potential roles.</p>
+<ul>
+<li><p>DAG can be cleaved to release arachidonic acid that can act as a signal molecule or be used to synthesize eicosanoids. Eicosanoids can serve many biological roles particularly in the pain and inflammatory responses.</p></li>
+<li><p>DAG can activate the Ca<span class="math inline">\(^+{^2}\)</span> dependent serine/threonine protein kinase called protein kinase C (PKC).</p></li>
+</ul>
+</section>
+<section id="ca2-functions-as-a-ubiquitous-intracellular-mediator" class="level2">
+<h2 class="anchored" data-anchor-id="ca2-functions-as-a-ubiquitous-intracellular-mediator">Ca2+ Functions as a Ubiquitous Intracellular Mediator</h2>
+<p>Ca<span class="math inline">\(^+{^2}\)</span> from the ER enters the cytosol either through PIP<span class="math inline">\(_3\)</span> receptors or ryanodine receptors. Ryanodine receptors are activated by Ca<span class="math inline">\(^+{^2}\)</span> binding and thereby amplifying the Ca<span class="math inline">\(^+{^2}\)</span> signal.</p>
+<p>All eukaryotic cells have Ca<span class="math inline">\(^+{^2}\)</span>-pumps that use energy from ATP hydrolysis to pump Ca<span class="math inline">\(^+{^2}\)</span> out of the cytosol. Some cells also have additional Ca<span class="math inline">\(^+{^2}\)</span> transport proteins in their plasma membrane to pair the efflux of Ca<span class="math inline">\(^+{^2}\)</span> with the influx of Na<span class="math inline">\(^+\)</span>.</p>
+</section>
+<section id="ca2calmodulin-dependent-protein-kinases" class="level2">
+<h2 class="anchored" data-anchor-id="ca2calmodulin-dependent-protein-kinases">Ca2+/Calmodulin-Dependent Protein Kinases…</h2>
+<p>Calmodulin consists of a highly conserved single polypeptide chain with four high-affinity Ca<span class="math inline">\(^+{^2}\)</span>-binding sites. Calmodulin under goes a conformational change when Ca<span class="math inline">\(^+{^2}\)</span> binding occurs. Two or more Ca<span class="math inline">\(^+{^2}\)</span> must bind to calmodulin for it to adopt its active conformation. A tenfold increase in Ca<span class="math inline">\(^+{^2}\)</span> typically causes a fifty fold increase in calmodulin activity.</p>
+<p>Ca<span class="math inline">\(^+{^2}\)</span>/calmodulin-dependent kinases (CaM-kinases) can act as a molecular memory device because after they are activated by Ca<span class="math inline">\(^+{^2}\)</span>/calmodulin they remain active after the Ca<span class="math inline">\(^+{^2}\)</span> signal has decayed.</p>
+</section>
+<section id="some-g-proteins-directly-regulate-ion-channels" class="level2">
+<h2 class="anchored" data-anchor-id="some-g-proteins-directly-regulate-ion-channels">Some G proteins Directly Regulate Ion Channels</h2>
+<p>Activation of muscarinic receptors lead to reduced contractility of heart muscle because they activate G<span class="math inline">\(_i\)</span> proteins. The <span class="math inline">\(\alpha\)</span> subunit of the G<span class="math inline">\(_i\)</span> inhibits adenylyl cylcase. The <span class="math inline">\(\beta\gamma\)</span> complex bind to K<span class="math inline">\(^+\)</span> channels keeping them open, this makes it harder to depolarize the cell ans contributes to the inhibatory effect of acetylcholine on the heart.</p>
+</section>
+<section id="intracellular-mediators-and-enzymatic-cascades" class="level2">
+<h2 class="anchored" data-anchor-id="intracellular-mediators-and-enzymatic-cascades">Intracellular Mediators and Enzymatic Cascades…</h2>
+<p><img src="20230222_205001.jpg" class="img-fluid"></p>
+</section>
+<section id="gpcr-desensitization-depends" class="level2">
+<h2 class="anchored" data-anchor-id="gpcr-desensitization-depends">GPCR Desensitization depends…</h2>
+<p>The three forms of GPCR desnsitization are:</p>
+<ol type="1">
+<li><p>Receptor inactivation</p></li>
+<li><p>Receptor sequestration</p></li>
+<li><p>Receptor down-regulation</p></li>
+</ol>
+<p>GPCR kinases (GRKs) play a role in GPCR desensitization by phosphorylation.</p>
+<p>Phosphorylated GPCRs bind with a high affinity to arrestins that can prevent the activation of the receptor by G proteins. Arrestins can alo serve as an adaptor protein to help couple the receptor tho clathrin-dependent machinery indcuing receptor-mediated endocytosis.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

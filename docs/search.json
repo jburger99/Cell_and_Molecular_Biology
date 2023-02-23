@@ -158,7 +158,7 @@
     "href": "L10.html#most-activated-cell-surface-receptors",
     "title": "Lesson 10: Cell Signaling",
     "section": "Most Activated Cell-Surface Receptors…",
-    "text": "Most Activated Cell-Surface Receptors…\nThe small intracellular signaling molecules are called small intracellular mediators, or second messengers.\n ## Figure 15-18"
+    "text": "Most Activated Cell-Surface Receptors…\nThe small intracellular signaling molecules are called small intracellular mediators, or second messengers."
   },
   {
     "objectID": "L10.html#many-intracellular-signaling-proteins",
@@ -172,7 +172,7 @@
     "href": "L10.html#modular-interaction-domains",
     "title": "Lesson 10: Cell Signaling",
     "section": "Modular Interaction Domains",
-    "text": "Modular Interaction Domains\nThe function of interaction domains is to bind to a particular structural motiff in a protein or lipid molecule with which the signal protein interacts.\nA highly conserved domain is a domain that is consistenly reoccuring in molecular evolution.\nThe 4 examples of interaction domains are Src homology 2 (SH2), phosphotyrosine-binding domains (PTB), Src homology 3 (SH3), and pleckstrin homology (PH).\nBinding:\n\nSH2 and PTB bind to phosphorylated tyrosines in a particular peptide sequences on activated receptors or intracellular signaling proteins.\nSH3 binds to short proline-rich amino acid sequences.\n\nPH binds to the charged head groups of phosphoimositides that are produced in the plasma membrane in response to an extracellular signal.\nAdaptor proteins are signal proteins that link two other proteins in a signal pathway."
+    "text": "Modular Interaction Domains\nThe function of interaction domains is to bind to a particular structural motiff in a protein or lipid molecule with which the signal protein interacts.\nA highly conserved domain is a domain that is consistenly reoccuring in molecular evolution.\nThe 4 examples of interaction domains are Src homology 2 (SH2), phosphotyrosine-binding domains (PTB), Src homology 3 (SH3), and pleckstrin homology (PH).\nBinding:\n\nSH2 and PTB bind to phosphorylated tyrosines in a particular peptide sequences on activated receptors or intracellular signaling proteins.\nSH3 binds to short proline-rich amino acid sequences.\nPH binds to the charged head groups of phosphoimositides that are produced in the plasma membrane in response to an extracellular signal.\n\nAdaptor proteins are signal proteins that link two other proteins in a signal pathway.\nAdapter Protein vs Scaffold Proteins (think lego)\n\nAdapter:\n\nmore ordered structure\nHave domains that can bind to a variety of proteins (think puzzle piece)\n\nScaffold\n\nless ordered structure\nHave domains that bind to specific proteins"
   },
   {
     "objectID": "L10.html#intracellular-signaling-networks",
@@ -250,5 +250,82 @@
     "title": "Lesson 6: Membrane Proteins",
     "section": "Most proteins synthesized in the rough ER…",
     "text": "Most proteins synthesized in the rough ER…"
+  },
+  {
+    "objectID": "L11.html",
+    "href": "L11.html",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "",
+    "text": "There are more than 700 GPCRs in humans.\nA single ligand can activate multiple GCPRs.\nA GPCR consits of a single polypeptide chain threaded seven times across the cell membrane. All GPCRs use G proteins to relay signals to cell interior."
+  },
+  {
+    "objectID": "L11.html#trimeric-g-proteins-relay-signals-from-gpcrs",
+    "href": "L11.html#trimeric-g-proteins-relay-signals-from-gpcrs",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Trimeric G proteins relay signals from GPCRs",
+    "text": "Trimeric G proteins relay signals from GPCRs\nThe three subunits of a trimeric G protein are the \\(\\alpha\\) subunit, the \\(\\beta\\) subunit, and the \\(\\gamma\\) subunit.\nThe \\(\\alpha\\) subunit is bound to a GDP when the G protein is inactive.\nWhen the G protein is activated the \\(\\alpha\\) subunit releases its bound GDP and binds to a GTP. The \\(\\alpha\\) subunit is a GTPase and hydrolyzes its bound GTP. When the bound GTP is hydrolyzed to a GDP the G protein becomes inactive.\nThe \\(\\beta\\) and \\(\\gamma\\) subunits form a \\(\\beta \\gamma\\) subunit. In most cases the conformational change that occurs upon the activation of the G protein dissociates the \\(\\alpha\\) subunit from the \\(\\beta \\gamma\\) complex. In some situations, however, the \\(\\alpha\\) subunit remains associated with the \\(\\beta \\gamma\\) complex.\nRegulators of G protein signaling (RGS) act as \\(\\alpha\\)-subunit-specific GTPase-activating proteins (GAPs) and they help shutoff G protein mediated responses."
+  },
+  {
+    "objectID": "L11.html#some-g-proteins-regulate",
+    "href": "L11.html#some-g-proteins-regulate",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Some G proteins regulate…",
+    "text": "Some G proteins regulate…\nAdenylyl cyclase is a membrane bound enzyme that synthesizes cyclic AMP. Cyclic AMP is rapidly and continuously destroyed by cyclic AMP phosphodiesterase.\nTo increase the concentration of cAMP in a cell, extracellular singaling molecules increase the activity of adenylyl cyclase against a background of cAMP phosphodiesterase activity.\nTo control cAMP activity GPCRs use G\\(_s\\) and G\\(_i\\). Stimulatory G protein or G\\(_s\\) is used to increase cAMP activity. To decrease cAMP activity Inhibatory G protein or G\\(_i\\) is used.\nCholera toxin increase cAMP activity by modifying the \\(\\alpha\\) subunit of G\\(_s\\) by transferring ADP ribose from intracellular NAD\\(^+\\). The ADP ribose prevents the \\(\\alpha\\) subunit from hydrolyzing its bound GTP, causing adenylyl cyclase to be constantly active. The prolonged elevation of cAMP in intestinal epithelial cells causes an increase of water and Cl\\(^-\\) in the gut leading to severe diarrhea.\nPertussis toxin catalyzes the ADP ribosylation of the \\(\\alpha\\) subuint of G\\(_i\\). This prevents G\\(_i\\) from interacting with receptors resulting in the G protein reaining bound to its GDP, diabling its ability to regualte its target proteins."
+  },
+  {
+    "objectID": "L11.html#cyclic-amp-dependent-protein-kinase-pka",
+    "href": "L11.html#cyclic-amp-dependent-protein-kinase-pka",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Cyclic-AMP-Dependent Protein Kinase (PKA)",
+    "text": "Cyclic-AMP-Dependent Protein Kinase (PKA)\nCyclic-AMP-Dependent Protein Kinase (PKA), in an inactive state, is made up of two catalytic subunits and two regulatory subunits (also called A-kinases) that form a complex. The binding of cAMP causes the dissociation of the regulatory subunits by changing their conformation. This activates the PKA.\nAn A-kinase anchoring protein (AKAP) located around the nucleus of a heart cell binds both PKA and phosphodiesterase that hyrdrolyzes cAMP. In an unstimulated cell the phospgodesterase keeps the cAMP concentration low to keep the PKA inactive. In a simulated cell the cAMP concentration is rapidly elevated activating the PKA. The PKA in turn activates the bound phosphodiesterase leading to a decrease in the cAMP concentration. This allows for a strong, brief, local pulse of PKA activity as apposed to a long, weak, general period of PKA activity.\nCyclic AMP response element or CRE is a short DNA sequence found in the gene regulatory region of many cAMP activated genes. CRE-binding protein (CREB) recognizes the CRE. When PKA is activated by cAMP, it phosphorylates CREB on a single serine. The phosphorylated CREB then recruits CREB-binding protein (CBP) which stimulates the reanscription of the targeted genes."
+  },
+  {
+    "objectID": "L11.html#some-g-proteins-activate-an-inositol",
+    "href": "L11.html#some-g-proteins-activate-an-inositol",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Some G Proteins Activate an Inositol…",
+    "text": "Some G Proteins Activate an Inositol…\nPIP\\(_2\\) is present in small amounts in the inner hlaf og the plasma membrane bilayer.\nG\\(_q\\) activates phospholipase C-\\(\\_beta\\) (PLC\\(\\beta\\)) a membrane bound enzyme that is often activated to extert the effects of GPCRs. G\\(_q\\) activates PLC\\(\\beta\\) in a similar way to G\\(_s\\) activating adenylyl cyclase. PLC\\(\\beta\\) cleaves PIP\\(_2\\) into inositol 1,4,5-triphosphate (IP\\(_3\\)) and diacylglycerol (DAG).\nIP\\(_3\\) acts as a small intracellular mediator. It opens IP\\(_3\\)-gated Ca\\(^+{^2}\\) channels (also called PIP\\(_3\\) receptors) on the ER to release Ca\\(^+{^2}\\) found in the ER into the cytosol. This quickly increases the Ca\\(^+{^2}\\) concentration of the cytosol.\nDAG also acts as a small intracellular mediator. DAG, however, remains embedded in the plasma membrane where it has several potential roles.\n\nDAG can be cleaved to release arachidonic acid that can act as a signal molecule or be used to synthesize eicosanoids. Eicosanoids can serve many biological roles particularly in the pain and inflammatory responses.\nDAG can activate the Ca\\(^+{^2}\\) dependent serine/threonine protein kinase called protein kinase C (PKC)."
+  },
+  {
+    "objectID": "L11.html#ca2-functions-as-a-ubiquitous-intracellular-mediator",
+    "href": "L11.html#ca2-functions-as-a-ubiquitous-intracellular-mediator",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Ca2+ Functions as a Ubiquitous Intracellular Mediator",
+    "text": "Ca2+ Functions as a Ubiquitous Intracellular Mediator\nCa\\(^+{^2}\\) from the ER enters the cytosol either through PIP\\(_3\\) receptors or ryanodine receptors. Ryanodine receptors are activated by Ca\\(^+{^2}\\) binding and thereby amplifying the Ca\\(^+{^2}\\) signal.\nAll eukaryotic cells have Ca\\(^+{^2}\\)-pumps that use energy from ATP hydrolysis to pump Ca\\(^+{^2}\\) out of the cytosol. Some cells also have additional Ca\\(^+{^2}\\) transport proteins in their plasma membrane to pair the efflux of Ca\\(^+{^2}\\) with the influx of Na\\(^+\\)."
+  },
+  {
+    "objectID": "L11.html#ca2calmodulin-dependent-protein-kinases",
+    "href": "L11.html#ca2calmodulin-dependent-protein-kinases",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Ca2+/Calmodulin-Dependent Protein Kinases…",
+    "text": "Ca2+/Calmodulin-Dependent Protein Kinases…\nCalmodulin consists of a highly conserved single polypeptide chain with four high-affinity Ca\\(^+{^2}\\)-binding sites. Calmodulin under goes a conformational change when Ca\\(^+{^2}\\) binding occurs. Two or more Ca\\(^+{^2}\\) must bind to calmodulin for it to adopt its active conformation. A tenfold increase in Ca\\(^+{^2}\\) typically causes a fifty fold increase in calmodulin activity.\nCa\\(^+{^2}\\)/calmodulin-dependent kinases (CaM-kinases) can act as a molecular memory device because after they are activated by Ca\\(^+{^2}\\)/calmodulin they remain active after the Ca\\(^+{^2}\\) signal has decayed."
+  },
+  {
+    "objectID": "L11.html#some-g-proteins-directly-regulate-ion-channels",
+    "href": "L11.html#some-g-proteins-directly-regulate-ion-channels",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Some G proteins Directly Regulate Ion Channels",
+    "text": "Some G proteins Directly Regulate Ion Channels\nActivation of muscarinic receptors lead to reduced contractility of heart muscle because they activate G\\(_i\\) proteins. The \\(\\alpha\\) subunit of the G\\(_i\\) inhibits adenylyl cylcase. The \\(\\beta\\gamma\\) complex bind to K\\(^+\\) channels keeping them open, this makes it harder to depolarize the cell ans contributes to the inhibatory effect of acetylcholine on the heart."
+  },
+  {
+    "objectID": "L11.html#intracellular-mediators-and-enzymatic-cascades",
+    "href": "L11.html#intracellular-mediators-and-enzymatic-cascades",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "Intracellular Mediators and Enzymatic Cascades…",
+    "text": "Intracellular Mediators and Enzymatic Cascades…"
+  },
+  {
+    "objectID": "L11.html#gpcr-desensitization-depends",
+    "href": "L11.html#gpcr-desensitization-depends",
+    "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
+    "section": "GPCR Desensitization depends…",
+    "text": "GPCR Desensitization depends…\nThe three forms of GPCR desnsitization are:\n\nReceptor inactivation\nReceptor sequestration\nReceptor down-regulation\n\nGPCR kinases (GRKs) play a role in GPCR desensitization by phosphorylation.\nPhosphorylated GPCRs bind with a high affinity to arrestins that can prevent the activation of the receptor by G proteins. Arrestins can alo serve as an adaptor protein to help couple the receptor tho clathrin-dependent machinery indcuing receptor-mediated endocytosis."
+  },
+  {
+    "objectID": "L10.html#figure-15-18",
+    "href": "L10.html#figure-15-18",
+    "title": "Lesson 10: Cell Signaling",
+    "section": "Figure 15-18",
+    "text": "Figure 15-18"
   }
 ]
