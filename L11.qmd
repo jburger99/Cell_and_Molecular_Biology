@@ -48,9 +48,9 @@ Cyclic AMP response element or CRE is a short DNA sequence found in the gene reg
 
 ## Some G Proteins Activate an Inositol…
 
-PIP$_2$ is present in small amounts in the inner hlaf og the plasma membrane bilayer. 
+PIP$_2$ is present in small amounts in the inner half of the plasma membrane bilayer. 
 
-G$_q$ activates phospholipase C-$\_beta$ (PLC$\beta$) a membrane bound enzyme that is often activated to extert the effects of GPCRs. G$_q$ activates PLC$\beta$ in a similar way to G$_s$ activating adenylyl cyclase. PLC$\beta$ cleaves PIP$_2$ into inositol 1,4,5-triphosphate (IP$_3$) and diacylglycerol (DAG).
+G$_q$ activates phospholipase C-$\beta$ (PLC$\beta$) a membrane bound enzyme that is often activated to exert the effects of GPCRs. G$_q$ activates PLC$\beta$ in a similar way to G$_s$ activating adenylyl cyclase. PLC$\beta$ cleaves PIP$_2$ into inositol 1,4,5-triphosphate (IP$_3$) and diacylglycerol (DAG).
 
 IP$_3$ acts as a small intracellular mediator. It opens IP$_3$-gated Ca$^+{^2}$ channels (also called PIP$_3$ receptors) on the ER to release Ca$^+{^2}$ found in the ER into the cytosol. This quickly increases the Ca$^+{^2}$ concentration of the cytosol.
 
@@ -74,7 +74,7 @@ Ca$^+{^2}$/calmodulin-dependent kinases (CaM-kinases) can act as a molecular mem
 
 ## Some G proteins Directly Regulate Ion Channels
 
-Activation of muscarinic receptors lead to reduced contractility of heart muscle because they activate G$_i$ proteins. The $\alpha$ subunit of the G$_i$ inhibits adenylyl cylcase. The $\beta\gamma$ complex bind to K$^+$ channels keeping them open, this makes it harder to depolarize the cell ans contributes to the inhibatory effect of acetylcholine on the heart.
+Activation of muscarinic receptors lead to reduced contractility of heart muscle because they activate G$_i$ proteins. The $\alpha$ subunit of the G$_i$ inhibits adenylyl cylcase. The $\beta \gamma$ complex bind to K$^+$ channels keeping them open, this makes it harder to depolarize the cell ans contributes to the inhibatory effect of acetylcholine on the heart.
 
 ## Intracellular Mediators and Enzymatic Cascades…
 
@@ -82,7 +82,7 @@ Activation of muscarinic receptors lead to reduced contractility of heart muscle
 
 ## GPCR Desensitization depends…
 
-The three forms of GPCR desnsitization are:
+The three forms of GPCR desensitization are:
 
 1. Receptor inactivation
 
@@ -92,4 +92,4 @@ The three forms of GPCR desnsitization are:
 
 GPCR kinases (GRKs) play a role in GPCR desensitization by phosphorylation. 
 
-Phosphorylated GPCRs bind with a high affinity to arrestins that can prevent the activation of the receptor by G proteins. Arrestins can alo serve as an adaptor protein to help couple the receptor tho clathrin-dependent machinery indcuing receptor-mediated endocytosis.
+Phosphorylated GPCRs bind with a high affinity to arrestins that can prevent the activation of the receptor by G proteins. Arrestins can alo serve as an adaptor protein to help couple the receptor tho clathrin-dependent machinery inducing receptor-mediated endocytosis.

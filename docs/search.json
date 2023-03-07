@@ -284,7 +284,7 @@
     "href": "L11.html#some-g-proteins-activate-an-inositol",
     "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
     "section": "Some G Proteins Activate an Inositol…",
-    "text": "Some G Proteins Activate an Inositol…\nPIP\\(_2\\) is present in small amounts in the inner hlaf og the plasma membrane bilayer.\nG\\(_q\\) activates phospholipase C-\\(\\_beta\\) (PLC\\(\\beta\\)) a membrane bound enzyme that is often activated to extert the effects of GPCRs. G\\(_q\\) activates PLC\\(\\beta\\) in a similar way to G\\(_s\\) activating adenylyl cyclase. PLC\\(\\beta\\) cleaves PIP\\(_2\\) into inositol 1,4,5-triphosphate (IP\\(_3\\)) and diacylglycerol (DAG).\nIP\\(_3\\) acts as a small intracellular mediator. It opens IP\\(_3\\)-gated Ca\\(^+{^2}\\) channels (also called PIP\\(_3\\) receptors) on the ER to release Ca\\(^+{^2}\\) found in the ER into the cytosol. This quickly increases the Ca\\(^+{^2}\\) concentration of the cytosol.\nDAG also acts as a small intracellular mediator. DAG, however, remains embedded in the plasma membrane where it has several potential roles.\n\nDAG can be cleaved to release arachidonic acid that can act as a signal molecule or be used to synthesize eicosanoids. Eicosanoids can serve many biological roles particularly in the pain and inflammatory responses.\nDAG can activate the Ca\\(^+{^2}\\) dependent serine/threonine protein kinase called protein kinase C (PKC)."
+    "text": "Some G Proteins Activate an Inositol…\nPIP\\(_2\\) is present in small amounts in the inner half of the plasma membrane bilayer.\nG\\(_q\\) activates phospholipase C-\\(\\beta\\) (PLC\\(\\beta\\)) a membrane bound enzyme that is often activated to exert the effects of GPCRs. G\\(_q\\) activates PLC\\(\\beta\\) in a similar way to G\\(_s\\) activating adenylyl cyclase. PLC\\(\\beta\\) cleaves PIP\\(_2\\) into inositol 1,4,5-triphosphate (IP\\(_3\\)) and diacylglycerol (DAG).\nIP\\(_3\\) acts as a small intracellular mediator. It opens IP\\(_3\\)-gated Ca\\(^+{^2}\\) channels (also called PIP\\(_3\\) receptors) on the ER to release Ca\\(^+{^2}\\) found in the ER into the cytosol. This quickly increases the Ca\\(^+{^2}\\) concentration of the cytosol.\nDAG also acts as a small intracellular mediator. DAG, however, remains embedded in the plasma membrane where it has several potential roles.\n\nDAG can be cleaved to release arachidonic acid that can act as a signal molecule or be used to synthesize eicosanoids. Eicosanoids can serve many biological roles particularly in the pain and inflammatory responses.\nDAG can activate the Ca\\(^+{^2}\\) dependent serine/threonine protein kinase called protein kinase C (PKC)."
   },
   {
     "objectID": "L11.html#ca2-functions-as-a-ubiquitous-intracellular-mediator",
@@ -305,7 +305,7 @@
     "href": "L11.html#some-g-proteins-directly-regulate-ion-channels",
     "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
     "section": "Some G proteins Directly Regulate Ion Channels",
-    "text": "Some G proteins Directly Regulate Ion Channels\nActivation of muscarinic receptors lead to reduced contractility of heart muscle because they activate G\\(_i\\) proteins. The \\(\\alpha\\) subunit of the G\\(_i\\) inhibits adenylyl cylcase. The \\(\\beta\\gamma\\) complex bind to K\\(^+\\) channels keeping them open, this makes it harder to depolarize the cell ans contributes to the inhibatory effect of acetylcholine on the heart."
+    "text": "Some G proteins Directly Regulate Ion Channels\nActivation of muscarinic receptors lead to reduced contractility of heart muscle because they activate G\\(_i\\) proteins. The \\(\\alpha\\) subunit of the G\\(_i\\) inhibits adenylyl cylcase. The \\(\\beta \\gamma\\) complex bind to K\\(^+\\) channels keeping them open, this makes it harder to depolarize the cell ans contributes to the inhibatory effect of acetylcholine on the heart."
   },
   {
     "objectID": "L11.html#intracellular-mediators-and-enzymatic-cascades",
@@ -319,7 +319,7 @@
     "href": "L11.html#gpcr-desensitization-depends",
     "title": "Lesson 11: Signaling Through G-protein-linked Pathways",
     "section": "GPCR Desensitization depends…",
-    "text": "GPCR Desensitization depends…\nThe three forms of GPCR desnsitization are:\n\nReceptor inactivation\nReceptor sequestration\nReceptor down-regulation\n\nGPCR kinases (GRKs) play a role in GPCR desensitization by phosphorylation.\nPhosphorylated GPCRs bind with a high affinity to arrestins that can prevent the activation of the receptor by G proteins. Arrestins can alo serve as an adaptor protein to help couple the receptor tho clathrin-dependent machinery indcuing receptor-mediated endocytosis."
+    "text": "GPCR Desensitization depends…\nThe three forms of GPCR desensitization are:\n\nReceptor inactivation\nReceptor sequestration\nReceptor down-regulation\n\nGPCR kinases (GRKs) play a role in GPCR desensitization by phosphorylation.\nPhosphorylated GPCRs bind with a high affinity to arrestins that can prevent the activation of the receptor by G proteins. Arrestins can alo serve as an adaptor protein to help couple the receptor tho clathrin-dependent machinery inducing receptor-mediated endocytosis."
   },
   {
     "objectID": "L10.html#figure-15-18",
@@ -327,5 +327,145 @@
     "title": "Lesson 10: Cell Signaling",
     "section": "Figure 15-18",
     "text": "Figure 15-18"
+  },
+  {
+    "objectID": "L13.html",
+    "href": "L13.html",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "",
+    "text": "The cytoskeleton functions to ensure that the cell is correctly shaped, physically robust, and properly structured internally."
+  },
+  {
+    "objectID": "L13.html#the-self-assembly-and-dynamic",
+    "href": "L13.html#the-self-assembly-and-dynamic",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "The self-assembly and dynamic…",
+    "text": "The self-assembly and dynamic…\nThe three types of cytoskelelton filaments and their functions are:\n\nIntermediate filaments - provide mechanical strength\nMicrotubules - determine the positions of membrane enclosed organelles and direct intracellular transport\nActin filaments - determine the shape of the cell’s surface and are necessary for whole-cell locomotion\n\nAccessory proteins are proteins that assist in the controlled assembly of the cytoskeletal filaments in particular locations. A subset of accessory proteins are motor proteins which convert ATP into mechanical force."
+  },
+  {
+    "objectID": "L13.html#cytoskeletal-filaments-are-dynamic-and-adaptable",
+    "href": "L13.html#cytoskeletal-filaments-are-dynamic-and-adaptable",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Cytoskeletal filaments are dynamic and adaptable",
+    "text": "Cytoskeletal filaments are dynamic and adaptable\nThe macromolecular components that make up larger cytoskeletal structures are in a constant state flux. This allows these structures rearrange quickly without requiring much energy."
+  },
+  {
+    "objectID": "L13.html#the-cytoskeleton-can-also-form-stable-structures",
+    "href": "L13.html#the-cytoskeleton-can-also-form-stable-structures",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "The cytoskeleton can also form stable structures",
+    "text": "The cytoskeleton can also form stable structures\nStable cytoskeletal structure still maintain their dynamic components. The individual filaments are continuously replaced and remodeled.\nCellular polarity is the difference in shape and structure that can occur on the separate sides of a cell to differentiate top or bottom, or front or back. In the case of intestinal epithelial cells the cytoskeleton forms polarities to separate the nutrient absorbing apical surface and the basolateral surface that distributes nutrients into the blood stream."
+  },
+  {
+    "objectID": "L13.html#each-type-of-cytoskeletal-filament",
+    "href": "L13.html#each-type-of-cytoskeletal-filament",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Each type of cytoskeletal filament",
+    "text": "Each type of cytoskeletal filament\nThe small subunits that cytoskeletal filaments are made of are advantitous because their small size allows them to diffuse easily through the cytoplasm.\nIntermediate filaments are made of subunits that are long and fiberous. Actin and tublin subunits are compact and globular.\nAll cytoskeletal filaments form helical assemblies of subunits that self-assemble. These assemblies are held together by noncovalent interactions with combinations of end-to-end and side-to-side protein contacts.\nAccessory proteins bind to the filaments or their subunits to do the following:\n\ndetermine the site of assembly for new filaments\nregulate the partitioning of polymer proteins between filament and subunit forms\nchange the kinetics of filament assembly or disassembly\nharness energy to generate force\nlink filaments to one another or to other cell structures"
+  },
+  {
+    "objectID": "L13.html#filaments-formed-from-multiple-protofilaments",
+    "href": "L13.html#filaments-formed-from-multiple-protofilaments",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Filaments formed from multiple protofilaments…",
+    "text": "Filaments formed from multiple protofilaments…\nProtofilaments are long linear strings of subunits joined end-to-end. Filaments are made of protofilaments associated with each other laterally. This is advantageous because addition or loss of a single subunit only requires the making/breaking of one longitudinal set of bonds and one or two lateral bonds compared to the several longitudinal bonds on multiple sets of protofilaments required to make or break a section of filament. This also make the ends of the filament the most dynamic point since they are the location off added and dropped protofilaments.\nThermal breakages are breaks in a filament that occur from ambient thermal energy within the cell.\nIntermediate filaments are more resistant to twisting than microtubules because they are made up of long staggered protofilaments that for a rope like structure."
+  },
+  {
+    "objectID": "L13.html#intermediate-filament-structure-depends",
+    "href": "L13.html#intermediate-filament-structure-depends",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Intermediate filament structure depends…",
+    "text": "Intermediate filament structure depends…\nCytoplasmic intermediate filaments are most common in vertebrates, nematodes, and mollusks. This is because these organisms are “squishy” so they require cell types that can tolerate more mechanical stress.\nNuclear lamins are filaments that form a mesh work lining in the nuclear envelope of the cell giving it shape and providing an anchor point for chromosomes and nuclear pores. Nuclear lamin genes have duplicated in cell so that they now form as intermediate filaments in the rest of the cell.\nThe polypeptides that make a IF subunit are elongated molecules with an extended \\(\\alpha\\)-helical domain that form a parallel coiled-coil with another monomer.\nIFs do not bind with nucleoside triphosphates (ATP/GTP). IF assembly/disassembly is regulated by phosphorylation."
+  },
+  {
+    "objectID": "L13.html#intermediate-filaments-impart-mechanical-stability",
+    "href": "L13.html#intermediate-filaments-impart-mechanical-stability",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Intermediate filaments impart mechanical stability…",
+    "text": "Intermediate filaments impart mechanical stability…\nIFs come in more vareities than actins or microtubules.\nKeratins are the most diverse IF family. They provide structure for epithelial cells, hair and nails.\nNeurofilaments are another type of IFs. They provide structure for axons and help to carry electrical signals."
+  },
+  {
+    "objectID": "L13.html#how-cells-regulate",
+    "href": "L13.html#how-cells-regulate",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "How cells regulate…",
+    "text": "How cells regulate…"
+  },
+  {
+    "objectID": "L13.html#a-protein-complex-containing",
+    "href": "L13.html#a-protein-complex-containing",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "A protein complex containing…",
+    "text": "A protein complex containing…\n\nExplain what nucleating is.\nExplain the relationship between MTOC, gamma-tubulin, and the gamma tubulin ring complex."
+  },
+  {
+    "objectID": "L13.html#microtubules-emanate-from-the-centrosome",
+    "href": "L13.html#microtubules-emanate-from-the-centrosome",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Microtubules emanate from the centrosome",
+    "text": "Microtubules emanate from the centrosome\n\nExplain the relationship between the centrosome and the MTOC.\nWhat are centrioles?\nExplain how the dynamics of MTs change when they are nucleated from a centrosome.\nHow does the centrosome contribute to organelle positioning?"
+  },
+  {
+    "objectID": "L13.html#actin-filaments-are-often-nucleated",
+    "href": "L13.html#actin-filaments-are-often-nucleated",
+    "title": "Lesson 13: Intro to the Cytoskeleton",
+    "section": "Actin Filaments are often nucleated…",
+    "text": "Actin Filaments are often nucleated…\n\nWhat is the cell cortex?\nWhere is most actin nucleated?\nWhat are microvilli, filopodia, and lamellipodia?\nWhat does the ARP complex do, and how does actin grow from it?\nHow does ARP help create an actin web?\nWhat is the leading edge of a migrating cell?"
+  },
+  {
+    "objectID": "L12.html",
+    "href": "L12.html",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "",
+    "text": "Enzyme-coupled receptors are transmembrane proteins with their ligand binding domains on the outer surface of the plasma membrane. Their cytosolic domain has either intrinsic enzyme activity or direct enzyme association. Enzyme-coupled receptors usually only have one subunit.\nEnzyme-coupled receptors share many of the same signalling pathways with GPCRs."
+  },
+  {
+    "objectID": "L12.html#activated-receptor-tyrosine-kinases",
+    "href": "L12.html#activated-receptor-tyrosine-kinases",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "Activated Receptor Tyrosine Kinases…",
+    "text": "Activated Receptor Tyrosine Kinases…\n\nEphrins are the largest class of membrane-bound ligands. They help guide the migration of cells and axons along specfic pathways during animal development.\nIn all Receptor Tyrosine Kinase (RTK) pathways, the biding of the signal protein to the ligand binding domain on the outside of the cell enables the intracellular tyrosine kinase domain to phosphorylate selected tyrosine side chains both on the receptor protein and on the intracellular signaling proteins."
+  },
+  {
+    "objectID": "L12.html#phosphorylated-tyrosines-on-rtks-serve",
+    "href": "L12.html#phosphorylated-tyrosines-on-rtks-serve",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "Phosphorylated Tyrosines on RTKs Serve…",
+    "text": "Phosphorylated Tyrosines on RTKs Serve…\nTyrosine phosphorylation on RTK cytoplasmic tails causes, first, increases the kinase activity of the enzyme and, second, it creates high-affinity docking sites for the binding of specific intracellular signaling proteins.\nEach of the signaling proteins binds to specific phosphorylated sites because it contains a specific phosphotyrosine binding domain.\nAn intracellular signaling complex is formed when a comformational change in the signaling protein or when the protein is brought near the protein that is next in the pathway."
+  },
+  {
+    "objectID": "L12.html#proteins-with-sh2-domains-bind",
+    "href": "L12.html#proteins-with-sh2-domains-bind",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "Proteins with SH2 Domains Bind…",
+    "text": "Proteins with SH2 Domains Bind…"
+  },
+  {
+    "objectID": "L12.html#ras-belongs-to-a-large-family",
+    "href": "L12.html#ras-belongs-to-a-large-family",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "Ras belongs to a large family…",
+    "text": "Ras belongs to a large family…\nRas - monomeric G-protein that mediates cell proliferation."
+  },
+  {
+    "objectID": "L12.html#rtks-activated-ras-via-adaptors",
+    "href": "L12.html#rtks-activated-ras-via-adaptors",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "RTKs Activated Ras Via Adaptors…",
+    "text": "RTKs Activated Ras Via Adaptors…"
+  },
+  {
+    "objectID": "L12.html#ras-activates-a-map-kinase",
+    "href": "L12.html#ras-activates-a-map-kinase",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "Ras Activates a MAP Kinase…",
+    "text": "Ras Activates a MAP Kinase…"
+  },
+  {
+    "objectID": "L12.html#scaffold-proteins-help-prevent",
+    "href": "L12.html#scaffold-proteins-help-prevent",
+    "title": "Lesson 12: Signaling through Receptor Tyrosine Kinases",
+    "section": "Scaffold Proteins Help Prevent…",
+    "text": "Scaffold Proteins Help Prevent…"
   }
 ]
